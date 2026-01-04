@@ -1,0 +1,545 @@
+[
+    {
+        "question": "AR Prezidenti ona təqdim olunmuş qanunları neçə gun ərzində imzalayır",
+        "options": [
+            "46 gün",
+            "60 gün",
+            "14 gün",
+            "56 gun",
+            "30 gün"
+        ],
+        "answer": "56 gun"
+    },
+    {
+        "question": "Qəbul olunmuş qanun layihələri nə vaxt qüvvəyə minir?",
+        "options": [
+            "qəbul edildiyi andan;",
+            "prezident tərəfindən imzalandıqdan sonra;",
+            "dərc edildikdən sonra;",
+            "səsvermədən sonra",
+            "sanksiyalaşdırdiqdan sonra;"
+        ],
+        "answer": "dərc edildikdən sonra;"
+    },
+    {
+        "question": "Qanunvericilik prosesi hansı mərhələlərdən ibarətdir",
+        "options": [
+            "qanun təklifinin verilməsi, qəbul edilməsi, rəsmi dərc edilməsi, hüquqi qüvvəyə minməsi",
+            "qanun layihəsinin yalniz deputatlar tərəfindən təklif edilməsi, promulqasiya",
+            "qanunvericilik təşəbbüsü, qanun layihəsinə parlament komissiyalarinda baxilması, qəbul edilməsi, sanksiyalaşdırılması, promulqasiya və dərc edilməsi",
+            "qanunvericilik təşəbbüsü, müzakirəsi, qəbul edilməsi",
+            "qanun təklifinin verilməsi, qəbul edilməsi, rəsmi dərc edilməsi"
+        ],
+        "answer": "qanunvericilik təşəbbüsü, qanun layihəsinə parlament komissiyalarinda baxilması, qəbul edilməsi, sanksiyalaşdırılması, promulqasiya və dərc edilməsi"
+    },
+    {
+        "question": "Naxçıvan Muxtar Respublikası Prokurorunu vəzifəyə kim təyin edir",
+        "options": [
+            "Azərbycan Respublikası Ali Məhkəməsinin sədri",
+            "Azərbycan Respublikası Baş Prokuroru",
+            "Naxçıvan Muxtar Respublikası Ali Məclisinin sədri",
+            "Naxçıvan Muxtar Respublikası Baş Naziri",
+            "Azərbycan Respublikası Baş Prokurorunun təqdimatı ilə Azərbycan Respublikası Prezidenti"
+        ],
+        "answer": "Azərbycan Respublikası Baş Prokurorunun təqdimatı ilə Azərbycan Respublikası Prezidenti"
+    },
+    {
+        "question": "Aşağıda göstərilən subyektlərdən hansı qanunvericilik təşəbbüsünə malik deyil",
+        "options": [
+            "Azərbycan Respublikası Baş Prokuroru",
+            "Naxçıvan Muxtar Respublikası Ali Məclisi",
+            "Azərbycan Respublikası Prezidenti",
+            "Daxili İşlər Naziri",
+            "Milli Məclisin deputatları"
+        ],
+        "answer": "Daxili İşlər Naziri"
+    },
+    {
+        "question": "26 sentyabr 2016-cı il tarixli AR-nın Konstitusiyasında dəyişikliklər edilməsi haqqında referendumun nəticələrinə əsasən AR-nın prezidentliyinə namizədliyin irəli sürülməsi üçün hansı yaş həddi tələb olunur?",
+        "options": [
+            "35 yaşdan yuxarı",
+            "yaş həddi şamil olunmur",
+            "40 yaşdan yuxarı",
+            "20 yaşdan yuxarı",
+            "25 yaşdan yuxarı"
+        ],
+        "answer": "yaş həddi şamil olunmur"
+    },
+    {
+        "question": "AR-nın Birinci vitse-prezidenti və onu ailəsinin maddi və sosial təminatı nəyin hesabına təmin edilir?",
+        "options": [
+            "bütün cavablar düzdür",
+            "Milli Məclisin hesabına",
+            "dövlət hesabına",
+            "Maliyyə Nazirliyinin hesabına",
+            "AR Prezidentinin ehtiyat fondunun hesabına"
+        ],
+        "answer": "dövlət hesabına"
+    },
+    {
+        "question": "AR-nın Prezidenti dövlətlərarası və hökumətlərarası beynəlxalq müqavilələr bağlamaq hüququnu kimlərə verə bilər?",
+        "options": [
+            "AR Prezidentinin müəyyən etdiyi digər şəxslərə",
+            "bütün cavablar düzdür",
+            "şəxsən prezidentin özü",
+            "AR-nın Nazirlər Kabinetinin üzvlərinə",
+            "Müvafiq sahə üzrə nazirliyin rəhbərinə"
+        ],
+        "answer": "bütün cavablar düzdür"
+    },
+    {
+        "question": "AR vitse-prezidentlərinin toxunulmazlığı nəyi ifadə edir?",
+        "options": [
+            "şəxsi müayinə edilə bilməz",
+            "cinayət məsuliiyətinə cəlb edilə bilməz",
+            "bütün cavablar düzdür",
+            "barəsində məhkəmə qaydasında inzibati tənbeh tədbirləri tətbiq edilə bilməz",
+            "axtarışa məruz qala bilməz"
+        ],
+        "answer": "bütün cavablar düzdür"
+    },
+    {
+        "question": "AR-nın vitse-prezidentinin toxunulmazlığına kim tərəfindən xitam verilə bilər?",
+        "options": [
+            "Milli Məclisin deputatlarının səs çoxluğu ilə",
+            "AR Baş prokurorunun təqdimatına əsasən AR-nın Prezidenti tərəfindən",
+            "AR-nın Baş naziri tərəfindən",
+            "AR-nın Milli Məclisinin sədri tərəfindən",
+            "AR-nın Ali Məhkəməsinin sədri tərəfindən"
+        ],
+        "answer": "AR Baş prokurorunun təqdimatına əsasən AR-nın Prezidenti tərəfindən"
+    },
+    {
+        "question": "Prezidentin səlahiyyətlərini icra edən AR-nın baş naziri bu vəzifəni icra edə bilmədikdə AR-nın Prezidentinin səlahiyyətlərini kim icra edir?",
+        "options": [
+            "Milli Məclisin sədri",
+            "Milli Məclisin ən yaşlı deputatı",
+            "vitse-prezident",
+            "birinci vitse-prezident",
+            "Milli Məclisin deputatlarının səs çoxluğu ilə seçdiyi deputat"
+        ],
+        "answer": "Milli Məclisin sədri"
+    },
+    {
+        "question": "\"AR-nın Prezidenti vaxtından əvvəl vəzifədən getdikdə növbədənkənar prezident seçkiləri hansı müddətə keçirilir? \"",
+        "options": [
+            "1 həftə müddətində",
+            "60 gün müddətində",
+            "3 ay müddətində",
+            "4 ay müddətində",
+            "1 ay müddətində"
+        ],
+        "answer": "60 gün müddətində"
+    },
+    {
+        "question": "Azərbycan Respublikası Konstitusiyasına görə qanunvericilik hakimiyyətini hansı dövlət orqanı həyata keçirir",
+        "options": [
+            "Azərbycan Respublikası Nazirlər Kabineti",
+            "Bələdiyyə orqanları",
+            "Azərbycan Respublikası Konstitusiya Məhkəməsi",
+            "Azərbycan Respublikası Milli Məclisi",
+            "Azərbycan Respublikasının Prezidenti"
+        ],
+        "answer": "Azərbycan Respublikası Milli Məclisi"
+    },
+    {
+        "question": "Azərbycan Respublikası İcra hakimiyyəti kimə mənsubdur?",
+        "options": [
+            "Azərbycan Respublikası Prezidentinə",
+            "Azərbycan Respublikası Konstitusiya Məhkəməsinə",
+            "Azərbycan Respublikası Milli Məclisinə",
+            "Yerli özünüidarəetmə orqanlarına",
+            "Prokurorluq orqanlarına"
+        ],
+        "answer": "Azərbycan Respublikası Prezidentinə"
+    },
+    {
+        "question": "Azərbycan Respublikası qanunlarının, Azərbycan Respublikası Prezidentinin Fərmanlarının, Milli Məclisin qərarlarının, Nazirlər Kabinetinin qərar və sərəncamlarının Azərbycan Respublikası Konstitusiyasına uyğunluğu məsələlərini hansı dövlət orqanı həll edir?",
+        "options": [
+            "Azərbycan Respublikası Prokurorluğu",
+            "Azərbycan Respublikası Nazirlər Kabineti",
+            "Azərbycan Respublikası Konstitusiya Məhkəməsi",
+            "Azərbycan Respublikası Prezidenti",
+            "Azərbycan Respublikası Ali Məhkəməsi"
+        ],
+        "answer": "Azərbycan Respublikası Konstitusiya Məhkəməsi"
+    },
+    {
+        "question": "Naxçıvan Muxtar Respublikası qanunverıcılık hakimiyyətini hansı dövlət orqanı həyata keçirir",
+        "options": [
+            "Naxçıvan Muxtar Respublikasının Ali Məclisi",
+            "Azərbycan Respublikasının Prezidenti",
+            "Naxçıvan Muxtar Respublikasının Ali Məhkəməsi",
+            "Naxçıvan Muxtar Respublikasının Nazirlər Kabineti",
+            "Azərbycan Respublikasının Nazirlər Kabineti"
+        ],
+        "answer": "Naxçıvan Muxtar Respublikasının Ali Məclisi"
+    },
+    {
+        "question": "Naxçıvan Muxtar Respublikası Ali Məclisinin səlahiyyət müddəti neçə ildir",
+        "options": [
+            "2 il",
+            "4 il",
+            "5 il",
+            "3 il",
+            "1 il"
+        ],
+        "answer": "5 il"
+    },
+    {
+        "question": "Azərbycan Respublikası Milli Məclisi neçə deputatdan ibarətdir?",
+        "options": [
+            "125 deputat",
+            "150 deputat",
+            "130 deputat",
+            "100 deputat",
+            "120 deputat"
+        ],
+        "answer": "125 deputat"
+    },
+    {
+        "question": "Ombudsman hansı hallarda anonim şikayyətləri qəbul edə bilər?",
+        "options": [
+            "Şikayətdə göstərilən hallar yetkinlik yaşına çatmayan şəxslərin hüquqlarının pozulmasına aid olarsa • Şikayətdə göstərilən hallar yetərincə əsaslı görünərsə",
+            "Şikayətdə göstərilən hallar yetərincə sübutlu görünərsə",
+            "Şikayətdə göstərilən hallar mühüm istiqaməti əhəmiyyət kəsb edərsə",
+            "Şikayətdə göstərilən hallar yetərincə sübutlu və və əsaslı faktlarla təsdiq edilərsə 20. Hansı xüsusiyyət prezidentli respublikaya aid edilir?",
+            "hökumətin parlament qarşısında məsuliyyəti",
+            "prezidentin parlamenti buraxmaq hüququnun olmaması",
+            "prezidentin icraedici hakimiyyətin başçısı olması",
+            "prezidentin parlament qarşısında hesabat verməsi",
+            "prezidentin parlamentdən kənar seçkisi"
+        ],
+        "answer": "prezidentin icraedici hakimiyyətin başçısı olması"
+    },
+    {
+        "question": "Hüququn mənbələri (formaları) hansılardır?",
+        "options": [
+            "məhkəmə təcrübəsi; qanunqüvvəli aktlar; hüquqi adət",
+            "hüquqi adət; hüquqi presedent (məhkəmə təcrübəsi); normativ-hüquqi akt",
+            "hüquqi adət; hüquqi presedent (məhkəmə təcrübəsi); beynəlxalq hüquqi aktlar",
+            "beynəlxalq hüquqi aktlar; qanunlar; qanunqüvvəli aktlar",
+            "hüquqi presedent (məhkəmə təcrübəsi); normativ-hüquqi akt; qanunlar"
+        ],
+        "answer": "beynəlxalq hüquqi aktlar; qanunlar; qanunqüvvəli aktlar"
+    },
+    {
+        "question": "Məhkəmə hakimiyyətin digər hakimiyyətlərdən fərqi:",
+        "options": [
+            "məhkəmələr istintaq aparırlar",
+            "məhkəmələr parlamentin qəbul etdiyi qanunlara tabe olurlar",
+            "məhkəmələr ədalət mühakiməsini həyata keçirirlər",
+            "məhkəmələr qanun qəbul etmir",
+            "məhkəmələr qanunlara düzgün əməl olunmasına nəzarət edirlər"
+        ],
+        "answer": "məhkəmələr ədalət mühakiməsini həyata keçirirlər"
+    },
+    {
+        "question": "Konstitusiyaya görə azadlıq anlayışının mahiyyəti nədən ibarətdir?",
+        "options": [
+            "özünü idarə etmək bacarığından",
+            "geniş imtiyazlara malik olmaq imkanından",
+            "hər bir şeyə hüquqların olmasından",
+            "hər şeyi etmək imkanından",
+            "qanunla yol verilən hər şeyi etmək imkanından"
+        ],
+        "answer": "qanunla yol verilən hər şeyi etmək imkanından"
+    },
+    {
+        "question": "Konstitusiya hüquq elmində hansı metodlardan istifadə edilir?",
+        "options": [
+            "analiz, sintez, deduksiya, induksiya, analogiya, müqayisə, tarixi yanaşma",
+            "kütləvi informasiya vasitələrindən istifadə metodu",
+            "qarşılıqlı təhlil metodu",
+            "sosioloji sorğular metodu",
+            "təbliğat və təşviqat metodu"
+        ],
+        "answer": "analiz, sintez, deduksiya, induksiya, analogiya, müqayisə, tarixi yanaşma"
+    },
+    {
+        "question": "Dövlətin tərkib elementleri",
+        "options": [
+            "dil, millət, dövlət başcısı",
+            "ərazi, əhali, dövlət hakimiyyəti",
+            "ərazi, əhali, ordu",
+            "dil, ərazi, əhali, ordu",
+            "dil, ərazi, dövlət hakimiyyəti"
+        ],
+        "answer": "ərazi, əhali, dövlət hakimiyyəti"
+    },
+    {
+        "question": "Hüquq münasiətlərinin tərkibi",
+        "options": [
+            "hüquq münasibətlərinin subyekti, məzmunu",
+            "hüquq münasibətlərinin subyekti, subyektiv cəhəti,obyekti, obyektiv cəhəti",
+            "subyektlərin subyektiv hüquq və vəzifələri",
+            "hüququn subyekti, hüquq münasibətlərinin məzmunu, obyekti",
+            "hüquq münasibətlərinin tərkibi"
+        ],
+        "answer": "hüququn subyekti, hüquq münasibətlərinin məzmunu, obyekti"
+    },
+    {
+        "question": "Konstitusiya hüquq normalarına əsasən hər bir vətəndaşın hüquqlarının və azadlıqlarının müdafiəsinə təminat verən orqan hansıdır?",
+        "options": [
+            "həmkarlar ittifaqları",
+            "dövlət",
+            "elmi-yaradıcılıq mərkəzləri",
+            "ictimai təşkilatlar",
+            "Ombudsmanlar"
+        ],
+        "answer": "dövlət"
+    },
+    {
+        "question": "Konstitusiya hüquq elmi hansı elmlərdən hesab edilir?",
+        "options": [
+            "xüsusi-hüquq elmlərindəndir",
+            "nəzəri-tarixi elmlərdəndir",
+            "fəlsəfi-hüquq elmlərdəndir",
+            "sahəvi hüquq elmlərindəndir",
+            "ictimai-siyasi elmlərdəndir"
+        ],
+        "answer": "sahəvi hüquq elmlərindəndir"
+    },
+    {
+        "question": "Konstitusiya hansı subyektlərə aiddir?",
+        "options": [
+            "fiziki şəxslərə və dövlətə",
+            "dövlət,şəxsiyyət,cəmiyyətə",
+            "yetkinlik yaşına çatanlara",
+            "dövlət və onun rəhbərliyin",
+            "cəmiyyətdə olan partiyalara"
+        ],
+        "answer": "dövlət,şəxsiyyət,cəmiyyətə"
+    },
+    {
+        "question": "Konstitusiyanın zamana görə qüvvəsi nədir?",
+        "options": [
+            "konstitusiyanın qeydə alınması",
+            "konstitusiyanın qüvvədə olması müddəti",
+            "konstitusiyada dəyişikliklər edilmə müddəti",
+            "konstitusiyanın qəbulu tarixi",
+            "konstitusiyanın ilk yaranma tarixi"
+        ],
+        "answer": "konstitusiyanın qüvvədə olması müddəti"
+    },
+    {
+        "question": "Konstitusiyanın şəxslərə görə qüvvəsi nədir?",
+        "options": [
+            "Konstitusiyanı təsdiq edən şəxslər",
+            "Konstitusiyanı qəbul edən şəxslər dairəsi",
+            "Konstitusiyanın şamil edildiyi şəxslər dairəsi",
+            "Konstitusiyanı dəyişdirə bilən şəxslər",
+            "Konstitusiyaya əlavə edə bilən şəxslər"
+        ],
+        "answer": "Konstitusiyanın şamil edildiyi şəxslər dairəsi"
+    },
+    {
+        "question": "Konstitusiyanın məkana görə qüvvəsi nədir?",
+        "options": [
+            "konstitusiyanın hansı ərazidə qüvvədə olması",
+            "konstitusiyanın ilk dəfə yarandığı yer",
+            "konstitusiyanın dərc olunduğu məkan",
+            "konstitusiyanın qəbul edildiyi məkan",
+            "konstitusiyanın tanındığı ölkələr"
+        ],
+        "answer": "konstitusiyanın hansı ərazidə qüvvədə olması"
+    },
+    {
+        "question": "Dövlətin mühüm məsələləri ilə bağlı qərarların qəbul edilməsində Azərbaycan xalqı hansı vasitəsim ilə iştirak edir?",
+        "options": [
+            "seçkilər yolu ilə",
+            "təyinetmə yolu ilə",
+            "referendum yolu ilə",
+            "impiçment yolu ilə",
+            "özünüidarəetmə yolu ilə"
+        ],
+        "answer": "referendum yolu ilə"
+    },
+    {
+        "question": "Xalq hakimiyyəti nin mövcudluğu necə həyata keçirilir?",
+        "options": [
+            "azad seçkilərlə",
+            "yerli hakimiyyət orqanlarının qərarı ilə",
+            "parlament tərəfindən qəbul edilmiş qanunla",
+            "hökumətin qərarı ilə",
+            "dövlət başçısının əmri ilə"
+        ],
+        "answer": "azad seçkilərlə"
+    },
+    {
+        "question": "Demokratik rejim hansı xüsusiyyəti ilə seçilir?",
+        "options": [
+            "insanların hüquq və azadlıqlarının qorunması",
+            "insanların hüquq və azadlıqlarının boğulması",
+            "hökumətin hakimiyyətə əsaslanan ordu tərəfindən təşkil olunması",
+            "dövlət nəzarətinin mövcudluğu",
+            "məhkəmə və hüquq mühafizə orqanlarının mövcudluğu"
+        ],
+        "answer": "insanların hüquq və azadlıqlarının qorunması"
+    },
+    {
+        "question": "Dövlət formasının əsas elementi hansıdır?",
+        "options": [
+            "partiyalar",
+            "ictimai birliklər",
+            "seçki sistemi",
+            "hakimiyyət",
+            "idarəetmə forması"
+        ],
+        "answer": "idarəetmə forması"
+    },
+    {
+        "question": "Hüquq pozuntusunun əsas əlamətləri",
+        "options": [
+            "hüquqazidd əməl, subyekt-anlaqlı şəxs; obyekt; ictimai münasibətlər • hüquqasidd əməl – hərəkət; subyekt, obyekt, təqsir",
+            "pozulmuş hüquqlar, təqsir, hüquqazidd əməl",
+            "hüquqazidd əməl; subyekt-anlaqlı şəxs; təqsir",
+            "subyekt və obyektin mövcudlugu;"
+        ],
+        "answer": "hüquqazidd əməl; subyekt-anlaqlı şəxs; təqsir"
+    },
+    {
+        "question": "Dispozitiv ve imperativ normalar hansı əlamətlərinə görə təsnifatlandirilir?",
+        "options": [
+            "Ümumi xarakter daşıdıgına görə;",
+            "Xüsusiyyətlərinə görə;",
+            "müəyyənlik dərəcəsinə görə;",
+            "Məcburetmə xarakteri daşıdıgına görə;",
+            "səlahiyyətverici və qadaganedici olduguna görə"
+        ],
+        "answer": "müəyyənlik dərəcəsinə görə;"
+    },
+    {
+        "question": "Hüququn ümumi prinsiplərinə aid deyil",
+        "options": [
+            "hüquq qabiliyyəti; fəaliyyət qabiliyyəti",
+            "qanunçuluq; sosial ədalət",
+            "hüquq və vəzifələrin vəhdəti; sosial azadlıq",
+            "demokratizm; humanizm",
+            "hüquq bərabərliyi; təqsirə görə məsuliyyət"
+        ],
+        "answer": "hüquq qabiliyyəti; fəaliyyət qabiliyyəti"
+    },
+    {
+        "question": "Konstitusiya nəzarətini hansı orqan həyata keçirir?",
+        "options": [
+            "Azərbaycan Respublikasının Konstitusiya Məhkəməsi",
+            "Azərbaycan Respublikasının Baş Prokurorluq orqanları",
+            "Azərbaycan Respublikasındakı Ali Məhkəmə orqanları",
+            "Azərbaycan Respublikası Prezidentinin Icra Aparatı",
+            "Azərbaycan Respublikasının Nazirlər Kabineti sistemi"
+        ],
+        "answer": "Azərbaycan Respublikasının Konstitusiya Məhkəməsi"
+    },
+    {
+        "question": "Konstitusiya hüququ vətəndaşların hansı kateqoriyasına aid edilir?",
+        "options": [
+            "Konstitusiyanın qüvvədə olduğu ərazidəki bütün vətəndaşların hamısına • yalnız hərbi mükəlləfiyyətli vətəndaşlara",
+            "yalnız vətəndaşlığı olan şəxslərə",
+            "yalnız anlaqlı şəxslərə",
+            "yalnız 18 yaşa çatmış vətəndaşlara"
+        ],
+        "answer": "Konstitusiyanın qüvvədə olduğu ərazidəki bütün vətəndaşların hamısına • yalnız hərbi mükəlləfiyyətli vətəndaşlara"
+    },
+    {
+        "question": "Konstitusiya hüququ hansı ictimai münasibətləri nizama salır?",
+        "options": [
+            "Dövlət, cəmiyyət və şəxsiyyət arasındakı olan münasibətləri",
+            "yalnız insanlar arasında yaranan münasibətləri nizama salır",
+            "ictimai təşkilatlar arasında yaranan münasibətləri nizamlayır • yalnız dövlətin öz orqanları arasında yaranan münasibətləri",
+            "ayrı-ayrı şəxslər arasında yaranan mübahisəli münasibətləri"
+        ],
+        "answer": "Dövlət, cəmiyyət və şəxsiyyət arasındakı olan münasibətləri"
+    },
+    {
+        "question": "Hüquqi dövlətdə qanunlar kim tərəfindən qəbul edilir?",
+        "options": [
+            "konstitusiyüa məhkəməsi tərəfindən",
+            "idarəedici orqan tərəfindən",
+            "parlament",
+            "müəyyən orqanların səlahiyyətli şəxsləri tərəfindən",
+            "prezident tərəfindən"
+        ],
+        "answer": "parlament"
+    },
+    {
+        "question": "Dövlət hakimiyyətinin əsas xüsusiyyəti hansıdır?",
+        "options": [
+            "düzgün cavab yoxdur",
+            "ictimai birliklər",
+            "ictimai təşkilat",
+            "siyasi təşkilatlar",
+            "dövlətin idarəetmə mexanizminin mövcudluğu"
+        ],
+        "answer": "dövlətin idarəetmə mexanizminin mövcudluğu"
+    },
+    {
+        "question": "Hansı əlamət dövlət quruluşu formasını izah edir?",
+        "options": [
+            "dövlətin ərazi və ya milli ərazi təşkili",
+            "dövlətin ali hakimiyyət orqanlarının təşkili",
+            "qanunverici, icraedici və nəzarət funksiyalarının məcmusu",
+            "dövlət hakimiyyətinin təşkili metodları",
+            "məhkəmə orqanlarının təşkili"
+        ],
+        "answer": "dövlətin ərazi və ya milli ərazi təşkili"
+    },
+    {
+        "question": "Hansı idarəetmə formasında hökumət parlament tərəfindən formalaşır və parlament qarşısında siyasi məsuliyyət daşıyır?",
+        "options": [
+            "parlamentli respublika",
+            "prezidentli respublika",
+            "qarışıq respublika",
+            "məhdud monarxiya",
+            "dualistik monarxiya"
+        ],
+        "answer": "parlamentli respublika"
+    },
+    {
+        "question": "Dövlətin hansı funksiyası qoruyucu funksiya hesab olunur?",
+        "options": [
+            "digər dövlətlərlə əlaqəsi",
+            "mədəni-tərbiyəvi",
+            "sosial",
+            "təsərrüfat",
+            "ekoloji"
+        ],
+        "answer": "ekoloji"
+    },
+    {
+        "question": "Dövlətin hansı nizamlayıcı funksiyası vardır?",
+        "options": [
+            "ekoloji",
+            "qanunların həyata keçirilməsi",
+            "qanunların qorunması",
+            "dövlətin xarici hücumlardan müdafiəsi",
+            "iqtisadi"
+        ],
+        "answer": "iqtisadi"
+    },
+    {
+        "question": "Müasir hüquq ədəbiyyatında dövlətin anlayışı necə verilmişdir?",
+        "options": [
+            "siyasi və iqtisadi birlik",
+            "sosial qrupun, xalqın iradə və maraqlarını ifadə edən xüsusi dövlət aparatına malik olan cəmiyyətin siyasi hakimiyyətinin xüsusi təşkilatıdır.",
+            "bir sinfin digər sinif içərisində hakimiyyəti",
+            "vətəndaşların mənəvi və əqli maraqlarının birliyi",
+            "müəyyən məqsəd üçün insanların birliyi"
+        ],
+        "answer": "sosial qrupun, xalqın iradə və maraqlarını ifadə edən xüsusi dövlət aparatına malik olan cəmiyyətin siyasi hakimiyyətinin xüsusi təşkilatıdır."
+    },
+    {
+        "question": ". Aşağıda göstərilən hallardan hansında cinayətdə iştirakçılığın obyektiv əlamətləri daha əhatəli göstərilmişdir?",
+        "options": [
+            "cinayətin subyekti üçün müəyyən edilən əlamətlərə malik iki və daha artıq şəxsin cinayətdə iştirakı;",
+            "cinayətin subyekti üçün müəyyən edilən əlamətlərin olub-olmamsından asılı olmayaraq cinayətdə iki və daha artıq şəxsin iştirakı; √ cinayətin subyekti üçün qanunla müəyyən edilən əlamətlərə malik iki və daha artıq şəxsin, cinayətdə qəsdən birgə iştirakı. • cinayətdə iki və daha artıq şəxsin iştirakı;",
+            "cinayətin subyekti üçün qanunla müəyyən edilən əlamətlərə malik iki və daha artıq şəxsin cinayətdə birgə iştirakı; 350. Aşağıda sadalanlardan hansı insanın şəxsi hüquq və və azalıqlarına aid edilir?",
+            "istirahət hüququ",
+            "təhsil hüququ",
+            "mədəniyyət hüququ",
+            "tətil hüququ",
+            "xüsusi mülkiyyət hüququ"
+        ],
+        "answer": "xüsusi mülkiyyət hüququ"
+    }
+]

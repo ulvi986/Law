@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz System</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .container { 
+            max-width: 800px;
+            width: 100%;
+            background: white;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            animation: slideIn 0.5s ease-out;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .quiz-header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 2px solid #f0f0f0;
+        }
+
+        .quiz-progress {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 20px;
+            font-size: 14px;
+            color: #666;
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 8px;
+            background: #e0e0e0;
+            border-radius: 10px;
+            overflow: hidden;
+            margin-bottom: 25px;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+            transition: width 0.3s ease;
+            border-radius: 10px;
+        }
+
+        h2 { 
+            font-size: 24px;
+            color: #2d3748;
+            line-height: 1.6;
+            margin-bottom: 30px;
+            font-weight: 600;
+        }
+
+        #options {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            margin-bottom: 25px;
+        }
+
+        .option { 
+            padding: 18px 20px;
+            border: 2px solid #e2e8f0;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            background: white;
+            font-size: 16px;
+            color: #2d3748;
+            display: flex;
+            align-items: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .option::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            height: 100%;
+            width: 4px;
+            background: #667eea;
+            transform: scaleY(0);
+            transition: transform 0.3s ease;
+        }
+
+        .option:hover {
+            border-color: #667eea;
+            transform: translateX(5px);
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.15);
+        }
+
+        .option:hover::before {
+            transform: scaleY(1);
+        }
+
+        .option.selected { 
+            background: linear-gradient(135deg, #667eea15, #764ba215);
+            border-color: #667eea;
+            font-weight: 500;
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.2);
+        }
+
+        .option.selected::before {
+            transform: scaleY(1);
+        }
+
+        .button-group {
+            display: flex;
+            gap: 12px;
+            margin-top: 25px;
+        }
+
+        button { 
+            flex: 1;
+            padding: 14px 24px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            border: none;
+            border-radius: 10px;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        button:first-child {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+        }
+
+        button:first-child:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(102, 126, 234, 0.5);
+        }
+
+        button:first-child:active {
+            transform: translateY(0);
+        }
+
+        button:last-child {
+            background: white;
+            color: #667eea;
+            border: 2px solid #667eea;
+        }
+
+        button:last-child:hover {
+            background: #667eea;
+            color: white;
+        }
+
+        .result { 
+            margin-top: 25px;
+            padding: 18px;
+            border-radius: 10px;
+            font-weight: 600;
+            font-size: 16px;
+            text-align: center;
+            animation: fadeIn 0.4s ease;
+            display: none;
+        }
+
+        .result.show {
+            display: block;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .result.correct {
+            background: #d4edda;
+            color: #155724;
+            border: 2px solid #c3e6cb;
+        }
+
+        .result.incorrect {
+            background: #f8d7da;
+            color: #721c24;
+            border: 2px solid #f5c6cb;
+        }
+
+        .quiz-icon {
+            font-size: 48px;
+            margin-bottom: 15px;
+        }
+
+        .quiz-title {
+            color: #667eea;
+            font-size: 28px;
+            font-weight: 700;
+            margin-bottom: 5px;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 25px;
+            }
+
+            h2 {
+                font-size: 20px;
+            }
+
+            .button-group {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="quiz-header">
+        <div class="quiz-icon">📝</div>
+        <div class="quiz-title">Test Sistemi</div>
+    </div>
+
+    <div class="quiz-progress">
+        <span>Sual <strong id="currentNum">1</strong> / <strong id="totalNum">50</strong></span>
+    </div>
+
+    <div class="progress-bar">
+        <div class="progress-fill" id="progressFill" style="width: 2%"></div>
+    </div>
+
+    <h2 id="question">Sual burda çıxacaq</h2>
+    <div id="options"></div>
+    
+    <div class="button-group">
+        <button onclick="submitAnswer()">Cavabı Təsdiqlə</button>
+        <button onclick="nextQuestion()">Növbəti Sual</button>
+    </div>
+    
+    <div class="result" id="result"></div>
+</div>
+
+<script>
+let questions = [];
+let quizQuestions = [];
+let currentQuestion = 0;
+let selectedOption = null;
+
+// --- JSON-dan sualları yüklə ---
+async function loadQuestions() {
+    const res = await fetch("questions.json");
+    const allQuestions = await res.json();
+
+    // ilk 50-dən random 10 sual seçirik
+    const first50 = allQuestions.slice(0, 50);
+    quizQuestions = [];
+    while (quizQuestions.length < 50 && first50.length > 0) {
+        const idx = Math.floor(Math.random() * first50.length);
+        quizQuestions.push(first50.splice(idx,1)[0]);
+    }
+
+    updateProgress();
+    loadQuestion();
+}
+
+// --- Progress yenilə ---
+function updateProgress() {
+    document.getElementById("currentNum").innerText = currentQuestion + 1;
+    document.getElementById("totalNum").innerText = quizQuestions.length;
+    const progress = ((currentQuestion + 1) / quizQuestions.length) * 100;
+    document.getElementById("progressFill").style.width = progress + "%";
+}
+
+// --- Sualı ekrana çıxar ---
+function loadQuestion() {
+    if(currentQuestion >= quizQuestions.length){
+        alert("Test bitdi!");
+        return;
+    }
+
+    selectedOption = null;
+    const resultDiv = document.getElementById("result");
+    resultDiv.classList.remove("show", "correct", "incorrect");
+    resultDiv.innerText = "";
+
+    const q = quizQuestions[currentQuestion];
+    document.getElementById("question").innerText = q.question;
+
+    const optionsDiv = document.getElementById("options");
+    optionsDiv.innerHTML = "";
+
+    // Variantları qarışdırırıq
+    const shuffled = q.options.slice();
+    shuffled.sort(() => Math.random() - 0.5);
+
+    shuffled.forEach(opt => {
+        const div = document.createElement("div");
+        div.className = "option";
+        div.innerText = opt;
+        div.onclick = () => selectOption(div, opt);
+        optionsDiv.appendChild(div);
+    });
+
+    updateProgress();
+}
+
+// --- Variant seçmə funksiyası ---
+function selectOption(element, option){
+    document.querySelectorAll(".option").forEach(o=>o.classList.remove("selected"));
+    element.classList.add("selected");
+    selectedOption = option;
+}
+
+// --- Cavabı yoxla ---
+function submitAnswer(){
+    if(!selectedOption){
+        alert("Zəhmət olmasa cavab seçin");
+        return;
+    }
+
+    const correct = quizQuestions[currentQuestion].answer;
+    const resultDiv = document.getElementById("result");
+
+    if(selectedOption === correct){
+        resultDiv.innerText = "✓ Doğru cavab!";
+        resultDiv.classList.add("show", "correct");
+    }else{
+        resultDiv.innerText = "✗ Yanlış cavab! Doğru cavab: " + correct;
+        resultDiv.classList.add("show", "incorrect");
+    }
+}
+
+// --- Növbəti sual ---
+function nextQuestion(){
+    currentQuestion++;
+    if(currentQuestion < quizQuestions.length){
+        loadQuestion();
+    }else{
+        alert("Test bitdi!");
+    }
+}
+
+loadQuestions();
+</script>
+
+</body>
+</html>
