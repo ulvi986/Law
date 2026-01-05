@@ -1,0 +1,585 @@
+[
+    {
+        "question": "Məhkəmə presidenti nədir?",
+        "options": [
+            "qanunların hüququn əsas",
+            "hüquqi adətlərə əsaslnmaq",
+            "hüquq normalarının",
+            "konstitusiyanın hüququn",
+            "konkret iş üzrə məhkəmənin qəbul etdiyi qərarın oxşar"
+        ],
+        "answer": "konkret iş üzrə məhkəmənin qəbul etdiyi qərarın oxşar"
+    },
+    {
+        "question": "Roman-german hüquq sisteminin əsas xüsusiyyətləri hansılardır?",
+        "options": [
+            "hüququn mənbəyi kimi",
+            "roma hüququ ilə üzvü",
+            "doktrinal (nəzəri) səciyyə",
+            "bütün cavablar düzdür",
+            "məcəllələşdirilmə"
+        ],
+        "answer": "bütün cavablar düzdür"
+    },
+    {
+        "question": "Azərbaycan Respublikasında hansı hüquq sistemi tətbiq olunur?",
+        "options": [
+            "qarışıq (hibrid) hüquq",
+            "anqlo-sakson hüquq",
+            "dini-kanonik hüquq",
+            "roman-german hüquq sistemi",
+            "sosialist hüquq sistemi"
+        ],
+        "answer": "roman-german hüquq sistemi"
+    },
+    {
+        "question": "Hüquqi tənzimetmənin imperativ metodu nəyi müəyyən edir?",
+        "options": [
+            "bütün cavablar düzdür",
+            "hüquq subyektlərinə",
+            "",
+            "hüquq normalarındakı göstərişlərdən kənara çıxmağa yol verməyən təsir vasitələridir hüququ subyektlərinin öz",
+            ""
+        ],
+        "answer": "hüquq normalarındakı göstərişlərdən kənara çıxmağa yol verməyən təsir vasitələridir hüququ subyektlərinin öz"
+    },
+    {
+        "question": "Məhkəmə presedenti əsasən hansı hüquq sistemində tətbiq olunur?",
+        "options": [
+            "kontinental və qarışıq hüquq",
+            "qarışıq hüquq sistemində",
+            "anqlo-sakson hüquq",
+            "kontinental hüquq",
+            "roman-german hüquq"
+        ],
+        "answer": "anqlo-sakson hüquq"
+    },
+    {
+        "question": "Hüquq sisteminin məqsədi:",
+        "options": [
+            "hüquqi tətbiqetmənin",
+            "normalar yaratmaqdır",
+            "önəlyici və əsaslı",
+            "keyfiyyətli hüquqyaratmanın",
+            "insanların davranışına və ictimai əlaqələrə təsir göstərməkdir 57. Konstitusiya nədir?",
+            "Əsas qanun aktı;",
+            "hakimiyyətin mənbəyi .",
+            "qanunverici orqan;",
+            "dövlətin əsas qanunu",
+            "əsas qanun qüvvəli akt;"
+        ],
+        "answer": "dövlətin əsas qanunu"
+    },
+    {
+        "question": "Azərbaycanda hakimiyyətin mənbəyi kimdir?",
+        "options": [
+            "Qanunlar;",
+            "Prezident;",
+            "azərbaycan xalqı",
+            "Qanunquvvəli aktlar.",
+            "Nazirlər kabineti;"
+        ],
+        "answer": "azərbaycan xalqı"
+    },
+    {
+        "question": "Hüquq sistemi cəmiyyətə nə cür təsir edir",
+        "options": [
+            "tənzimləyici, qoruyucu, normativ",
+            "sosial və qoruyucu nizamasalma;",
+            "tənzimləyici və fərdi hüquqi nizamasalma;",
+            "normativ, siyasi və tərbiyəvi nizamasalma;",
+            "normativ və fərdi hüquqi nizamasalma;"
+        ],
+        "answer": "normativ və fərdi hüquqi nizamasalma;"
+    },
+    {
+        "question": "Konstitusiyanın legitimliyi özündə hansı əlamətləri birləşdirir?",
+        "options": [
+            "konstitusiyanın rəsmi orqanlarda dərc edilməsi",
+            "konstitusiyanın məhkəmə qərarı ilə təsdiq edilməsi",
+            "konstitusiyanın başqa dövlətlər tərəfindən bəyənilməsi",
+            "konstitusiyanın notarial qaydada təsdiq edilməsi",
+            "Konstitusiyanın xalq tərəfindən seçilmiş ali nümayəndəli hakimiyyət orqanı tərəfindən qəbul edilməsi, ümumxalq səsverməsi yolu ilə qəbul edilməsi, xüsusi təsis yığıncağı tərəfindən qəbul edilməsi"
+        ],
+        "answer": "Konstitusiyanın xalq tərəfindən seçilmiş ali nümayəndəli hakimiyyət orqanı tərəfindən qəbul edilməsi, ümumxalq səsverməsi yolu ilə qəbul edilməsi, xüsusi təsis yığıncağı tərəfindən qəbul edilməsi"
+    },
+    {
+        "question": "Konstitusiyanın hansı funksiyaları mövcuddur?",
+        "options": [
+            "hüquqi, sosial, siyasi və tərbiyəvi funksiyalar",
+            "cəriməni müəyyən etmə və cəzavermə funksiyaları",
+            "yalnız hüquqi tərbiyə vermə və siyasi funksiya",
+            "yalnız hüquqi məsuliyyətdən azad etmə funksiyası",
+            "idarəçiliyi həyata keçirmə ilə bağlı funksiyası"
+        ],
+        "answer": "hüquqi, sosial, siyasi və tərbiyəvi funksiyalar"
+    },
+    {
+        "question": "Konstitusiyanın 48-ci maddəsində nəzərdə tutulan vicdan azadlığı, digər hansı normativ aktla tənzimlənir?",
+        "options": [
+            "məhkəmələr və hakimlər haqqında qanunla",
+            "Nazirlər kabinetinin sərəncamları ilə",
+            "Adət,ənənə,ictimai və əxlaq normaları ilə",
+            "Respublika Prezidentinin fərmanları ilə",
+            "Dini etiqad azadlığı haqqında qanun ilə"
+        ],
+        "answer": "Dini etiqad azadlığı haqqında qanun ilə"
+    },
+    {
+        "question": "Konstitusiya öz xarakterinə görə hansı aktlara aiddir?",
+        "options": [
+            "fərdi xarakterli aktdır",
+            "hüquqi-siyasi aktdır",
+            "yalnız hüquqi aktdır",
+            "yalnız siyasi aktdır",
+            "ictimai-siyasi aktdır"
+        ],
+        "answer": "hüquqi-siyasi aktdır"
+    },
+    {
+        "question": "İnsan və vətəndaş hüquqlarının və azadlıqlarının pozulması ilə əlaqədar mübahisələri hansı orqan həll edir?",
+        "options": [
+            "Məhkəmələr",
+            "Yuxarı icra orqanları",
+            "Prezident",
+            "prokurorluq orqanlaı",
+            "Ombudsman"
+        ],
+        "answer": "Məhkəmələr"
+    },
+    {
+        "question": "Dövlətin funksiyaları hansılardır?",
+        "options": [
+            "dövlətin sosial təyinatı, onun fəaliyyətinin xarakterinin və məzmununun ifadəsi",
+            "ictimai təşkilatların fəaliyyəti",
+            "dövlət fəaliyyətinin növləri",
+            "dövlət hakimiyyətinin icrası metodları",
+            "dövlətin səlahiyyətinədə olan məsələlərin həlli"
+        ],
+        "answer": "dövlətin sosial təyinatı, onun fəaliyyətinin xarakterinin və məzmununun ifadəsi"
+    },
+    {
+        "question": "Insan və vətəndaş hüquq və azadlıqlarının əsas prinsipi nədir?",
+        "options": [
+            "insan və vətəndaş hüquq və azadlıqlarının təmin edilməsi",
+            "cəmiyyət üzvlərinin müxtəlif maraqlarını əlaqələndirən vahid hakimiyyət altında insanların birləşməsi • dövlət öz fəaliyyətində hüququ rəhbər tutaraq, insan hüquqlarını və azadlıqlarını təmin edir • qanunla yol verilən hər şeyi etmək imkanında",
+            "hər kəsin doğulduğu andan toxunulmaz, pozulmaz və ayrılmaz hüquqları və azadlıqları vardır 67. AR-nın vətəndaşı hansı hallarda AR-nın ərazisindən qovulur?",
+            "beynəlxalq normalarda nəzərdə tutulanda",
+            "başqa ölkənin vətəndaşlıgını qəbul etdikdə",
+            "vətənə xəyanət etdikdə",
+            "hec bir halda",
+            "şəxsi vəsadəti ilə"
+        ],
+        "answer": "hec bir halda"
+    },
+    {
+        "question": "Apatrid vətəndaş kimə deyilir?",
+        "options": [
+            "dövlətlə hüquqi əlaqəsi olmayan şəxsə",
+            "dövlətlə siyasi əlaqəsi olmayan şəxsə",
+            "vətəndaşlığı olmayan şəxsə",
+            "ikili vətəndaşlığı olan şəxsə",
+            "əcnəbi şəxsə"
+        ],
+        "answer": "vətəndaşlığı olmayan şəxsə"
+    },
+    {
+        "question": "1995- ci il Konstitusiyasının strukturu neçədir?",
+        "options": [
+            "12 bölmə 12 fəsil, 168 maddədən ibarətdir",
+            "12 bölmə 5 fəsil, 138 maddədən ibarətdir",
+            "preambula,5 fəsil, 174 maddədən ibarətdir",
+            "5 bölmə 12 fəsil, 158 maddədən ibarətdir",
+            "5 bölmə 12 fəsil, 182 maddədən ibarətdir"
+        ],
+        "answer": "5 bölmə 12 fəsil, 158 maddədən ibarətdir"
+    },
+    {
+        "question": "Iqdisadi hüquq və azadlıqlar hansılardır?",
+        "options": [
+            "təhlükəsiz yaşamaq hüququ, mənzil hüququ",
+            "ana dilindən istifadə hüququ",
+            "mülkiyyət hüququ, azad sahibkarlıq hüququ, tətil hüququ",
+            "istirahət hüququ, nikah hüququ",
+            "sağlam ətraf mühitdə yaşamaq hüququ, mədəniyyət hüququ"
+        ],
+        "answer": "mülkiyyət hüququ, azad sahibkarlıq hüququ, tətil hüququ"
+    },
+    {
+        "question": "Konstitusiya nə zaman fəaliyyətə başlayır?",
+        "options": [
+            "hüquqi qüvvəsini aldıqdan sonra",
+            "layihə Milli Məclisdən keçən kimi",
+            "Seçki komissiyasının qərarı ilə",
+            "qəbul edildiyi tarixi günlərdən",
+            "Parlament sədri təsdiq edən kimi"
+        ],
+        "answer": "hüquqi qüvvəsini aldıqdan sonra"
+    },
+    {
+        "question": "Konstitusiya hüququnun mənbələri hansılardır?",
+        "options": [
+            "Konstitusiya özü, qanunlar, fərmanlar, qərarlar və s",
+            "Azərbaycan Respublikasının prezidentinin sərəncamları",
+            "yalnız azərbaycan respublikasının norma və qanunları",
+            "yalnız azərbaycan respublikasının prezident fərmanları",
+            "Konstitusiya aktı, məhkəmə qərarları və müqavilələr"
+        ],
+        "answer": "Konstitusiya özü, qanunlar, fərmanlar, qərarlar və s"
+    },
+    {
+        "question": "Naxçıvan Muxtar Respublikası statusu hansı qanunverici aktla müəyyən olunur",
+        "options": [
+            "Azərbycan Respublikası Konstitusiyası ilə",
+            "Respublikanın nizamnaməsi ilə",
+            "Ali Məclis qanunları ilə",
+            "Naxçıvan Muxtar Respublikası Ali Məclisinin qanunları ilə",
+            "Nazirlər Kabinetinin qərarları ilə"
+        ],
+        "answer": "Azərbycan Respublikası Konstitusiyası ilə"
+    },
+    {
+        "question": "Konstitusiya hüququnun anlayışı dedikdə:",
+        "options": [
+            "dövlət qulluqçularının əmək münasibətlərini nizama salan hüquq sistemi başa düşülür",
+            "öhdəliklərin icrası zamanı əmələ gələn münasibətləri nizama salan hüquq sistemidir",
+            "dövlətlər arasında siyasi, iqtisadi, mədəni münasibətləri nizama salan hüquq sistemi başa düşülür",
+            "dövlətin maliyyə fəaliyyəti zamanı əmələ gələn münasibətləri nizama salan hüquq sistemidir",
+            "konstitusiya normasında təsbit olunan münasibətləri nizama salan hüquq sistemidir"
+        ],
+        "answer": "konstitusiya normasında təsbit olunan münasibətləri nizama salan hüquq sistemidir"
+    },
+    {
+        "question": "Konstitusiya anlayışı latın dilindən olan constitusio sözündən olub hərfi mənası deməkdir.",
+        "options": [
+            "quruluş, təsisat",
+            "idarəçilik",
+            "razılıq",
+            "nəzəriyyə",
+            "qayda"
+        ],
+        "answer": "quruluş, təsisat"
+    },
+    {
+        "question": "İctimai münasibətlərin geniş dairəsini, bütün cəmiyyət üzvlərinin, vətəndaşların köklü maraqlarını əhatə edən və tənzimləyən dövlətin əsas Qanunu",
+        "options": [
+            "Azərbycan Respublikası Mülki Məcəlləsi",
+            "Azərbycan Respublikası Mülki- Prosessual Məcəllə",
+            "Azərbycan Respublikası İnzibati Xətalar Məcəlləsi",
+            "İnsan hüquqları haqqında ümumi Bəyannamə",
+            "Azərbycan Respublikası Konstitusiyası"
+        ],
+        "answer": "Azərbycan Respublikası Konstitusiyası"
+    },
+    {
+        "question": "Xalq hakmiyyətinin ali, birbaşa təzahür fomaları",
+        "options": [
+            "Azərbycan Respublikası Prezidenti",
+            "müstəqilliyini təmin etmək hüqüqu",
+            "Azərbycan Respublikası Milli Məclisi",
+            "yerli özünüidarəetmə",
+            "referendum və azad seçkilər"
+        ],
+        "answer": "referendum və azad seçkilər"
+    },
+    {
+        "question": "Dövlət quruluşuna görə Azərbycan Respublikası hansına aiddir",
+        "options": [
+            "unitar",
+            "monarxiya",
+            "konfederasiya",
+            "respublika",
+            "federasiya"
+        ],
+        "answer": "unitar"
+    },
+    {
+        "question": "Azərbycan Respublikasının yeni konstitusiyası hansı tarixdə qəbul edilmişdir?",
+        "options": [
+            "7 dekabr1994-cü ildə",
+            "12 oktyabr 1995-ci ildə",
+            "12 sentyabr 2002-ci ildə",
+            "16 oktyabr 2003-cü ildə",
+            "12 noyabr 1995-ci ildə"
+        ],
+        "answer": "12 noyabr 1995-ci ildə"
+    },
+    {
+        "question": "Azərbycan Respublikası Konstitusiyasına əsasən torpaqlar ola bilər",
+        "options": [
+            "dövlət və bələdiyyə mülkiyyətində",
+            "xüsusi mülkiyyətdə",
+            "bələdiyyə mülkiyyətində",
+            "dövlət mülkiyyətində",
+            "dövlət, bələdiyyə və xüsusi mülkiyyətdə"
+        ],
+        "answer": "dövlət, bələdiyyə və xüsusi mülkiyyətdə"
+    },
+    {
+        "question": "əsas insan hüquqları və azadlıqları hər kəsə hansı andan mənsubdur",
+        "options": [
+            "15 yaşına çatandan",
+            "16 yaşına çatandan",
+            "18 yaşına çatandan",
+            "14 yaşına çatandan",
+            "Doğulduğu andan"
+        ],
+        "answer": "Doğulduğu andan"
+    },
+    {
+        "question": "Konstitusiyaya görə Azərbaycan dövlətinin əsas məzmunu nədən ibarətdir?",
+        "options": [
+            "demokratiya cəhətdən tarixinin qədim olmasından",
+            "neft strategiyası həyata keçirən dövlət olması",
+            "demokratik, unitar, dünyavi, hüquqi olmasından",
+            "hüquqi,federativ,dünyəvi bir dövlət olmasından",
+            "zaqafqaziyada vahid demokratik dövlət olmasından"
+        ],
+        "answer": "demokratik, unitar, dünyavi, hüquqi olmasından"
+    },
+    {
+        "question": "Konstitusiyaya görə Azərbaycan Dövlətinin ali məqsədi nədir?",
+        "options": [
+            "xarici ölkələrdən investisiya və borc almaq",
+            "insan və vətəndaş hüquqlarının və azadlıqlarının təmin edilməsi",
+            "xarici ölkə banklarına sərmayə qoymaq",
+            "müharibə etmək və sülh bağlamaq",
+            "ədalət mühakiməsini bərqərar etmək"
+        ],
+        "answer": "insan və vətəndaş hüquqlarının və azadlıqlarının təmin edilməsi"
+    },
+    {
+        "question": "Konstitutsiyaya əsasən hər kəsin hüquqlarının bə azadlıqlarının hansı formada müdafiə etmək hüququ vardır?",
+        "options": [
+            "Qanunla yol verilən və özünün müəyyənləşdirdiyi üsul və vasitələrlə",
+            "Özünün müəyyənləşdirdiyi üsul və vasitələrlə",
+            "Qanunla yol verilən üsul və vasitələrlə",
+            "BMT, Avropa şurası və başqa beynəlxalq təşkilatlar",
+            "qanunla qadağan olunmayan üsul və vasitələrlə"
+        ],
+        "answer": "qanunla qadağan olunmayan üsul və vasitələrlə"
+    },
+    {
+        "question": "Hüquq normasında nəzərdə tutulan və hüquq münasibətlərinin əmələ gəlməsinə, dəyişməsi və xitam edilməsinə səbəb olan həyati hallar necə adlanır?",
+        "options": [
+            "hüquqi şərt",
+            "hüquqi prezumsiya (ehtimal)",
+            "düzgün cavab yoxdur",
+            "hüquqi şərait",
+            "hüquqi fakt"
+        ],
+        "answer": "hüquqi fakt"
+    },
+    {
+        "question": "Subyektin öz hərəkətləri ilə hüquqlar əldə etmək və hüquqi vəzifələr daşımaq qabiliyyəti necə adlanır?",
+        "options": [
+            "hüquq qabiliyyəti",
+            "fəaliyyət qabiliyyəti",
+            "delikt subyektliliyi",
+            "hüquq subyektliliyi",
+            "hüquqi fəaliyyət"
+        ],
+        "answer": "fəaliyyət qabiliyyəti"
+    },
+    {
+        "question": "Yaratdığı hüquqi nəticələrdən və insanların iradəsi ilə əlaqəsindən asılı olaraq hüquqi faktlar necə təsnifləşdirilir?",
+        "options": [
+            "hadisələr və hərəkətlər",
+            "hüquq yaradan hüquqi faktlar",
+            "xitamverici hüquqi faktlar",
+            "hüquq bərpaedici hüquqi faktlar",
+            "hüquq dəyişən hüquqi faktlar"
+        ],
+        "answer": "hadisələr və hərəkətlər"
+    },
+    {
+        "question": "Hansı hal hüquqi fakt hesab edilmir?",
+        "options": [
+            "təbii fəlakət",
+            "əmək müqaviləsinin bağlanması",
+            "ali məktəbə qəbul olunma",
+            "əqdin bağlanması",
+            "qumar oyunları"
+        ],
+        "answer": "qumar oyunları"
+    },
+    {
+        "question": "Hüquq normalarının nəzəri tədqiqatçıları necə adlanır?",
+        "options": [
+            "hakimlər",
+            "dövlət orqanları",
+            "hüquqşünas alimlər",
+            "hüquq ühafizə orqanlarında çalışanlar",
+            "hüquq nomalarına tətbiq edənlər"
+        ],
+        "answer": "hüquqşünas alimlər"
+    },
+    {
+        "question": "Müəyyən normanın icrası nədən ibarət olmalıdır?",
+        "options": [
+            "sanksiya",
+            "hipoteza",
+            "dispozisiya",
+            "preambula",
+            "təqsir"
+        ],
+        "answer": "dispozisiya"
+    },
+    {
+        "question": "Normaların icra edilməməsinin hansı nəticələri ola bilər?",
+        "options": [
+            "müvafiq maddə",
+            "hipoteza",
+            "preambula",
+            "sanksiya",
+            "dispozisiya]"
+        ],
+        "answer": "sanksiya"
+    },
+    {
+        "question": "Hansı normativ hüquqi aktlar ali qüvvəyə malikdir?",
+        "options": [
+            "qanunlar",
+            "əmrlər",
+            "qərarlar",
+            "sərəncamlar",
+            "göstərişlər"
+        ],
+        "answer": "qanunlar"
+    },
+    {
+        "question": "Vətəndaşlıq hüququnun təminatı hüququ vətəndaşların hansı hüquq və azadlıqların kateqoriyasına aiddir",
+        "options": [
+            "siyasi",
+            "iqtisadi",
+            "şəxsi",
+            "mədəni",
+            "sosial"
+        ],
+        "answer": "siyasi"
+    },
+    {
+        "question": "Təqsirsizlik prezumpsiyası hüququ vətəndaşların hansı hüquq və azadlıqların kateqoriyasına aiddir",
+        "options": [
+            "mədəni",
+            "siyasi",
+            "sosial",
+            "şəxsi",
+            "iqtisadi"
+        ],
+        "answer": "şəxsi"
+    },
+    {
+        "question": "Mülkiyyət hüququ vətəndaşların hansı hüquq və azadlıqlarının kateqoriyasına aiddir",
+        "options": [
+            "mülki",
+            "siyasi",
+            "şəxsi",
+            "mədəni",
+            "sosial- iqtisadi"
+        ],
+        "answer": "sosial- iqtisadi"
+    },
+    {
+        "question": "İnsan hüquqlarının müdafiəsi sahəsində ixtisaslaşan qeyri-hökumət təşkilatları hansı hallarda insan hüquqları pozulmuş şəxsin razılığını almadan Ombudsmana şikayyət verə bilərlər?",
+        "options": [
+            "heç bir halda",
+            "İnsan hüquqlarının pozulması xüsusi ictimai əhəmiyyət kəsb edən və kütləvi xarakter aldıqda",
+            "İnsan hüquqlaının pozulması xüsusi ictimai əhəmiyyət kəsb edən halda",
+            "İnsan hüquqları pozulmuş şəxsin razılığını almaq mümkün olmadıqda",
+            "Bütün hallarda"
+        ],
+        "answer": "İnsan hüquqlarının pozulması xüsusi ictimai əhəmiyyət kəsb edən və kütləvi xarakter aldıqda"
+    },
+    {
+        "question": "Fikir və söz azadlığı hüququ vətəndaşların hansı hüquq və azadlıqlarının kateqoriysına aiddir",
+        "options": [
+            "mədəni",
+            "iqtisadi",
+            "siyasi",
+            "sosial",
+            "şəxsi"
+        ],
+        "answer": "şəxsi"
+    },
+    {
+        "question": "Azad sahibkarlıq hüququ vətəndaşların hansı hüquq və azadlıqlarının kateqoriysına aiddir",
+        "options": [
+            "mədəni",
+            "mülki",
+            "siyasi",
+            "sosial- iqtisadi",
+            "şəxsi"
+        ],
+        "answer": "sosial- iqtisadi"
+    },
+    {
+        "question": "Konstitusiyaya görə Azərbaycan Respublikası vətəndaşlarının hüquqları, yoxsa vəzifələri daha genişdir ?",
+        "options": [
+            "vəzifə hüquqdan daha genişdi",
+            "hüquq vəzifədən daha genişdir",
+            "hüquq və vəzifələr bərabərdir",
+            "vətəndaşın vəzifələri yoxdur",
+            "hüquq vəzifənin üçdə biridir"
+        ],
+        "answer": "hüquq və vəzifələr bərabərdir"
+    },
+    {
+        "question": "Konstitusiyaya görə Azərbaycan Respublikası vətəndaşları vətəndaşlıqdan məhrum edilə bilərmi: ?",
+        "options": [
+            "vətəndaşlıqdan məhrum etməyə yol verilmir",
+            "pasport itirən vətəndaşlıqdan məhrum edilir",
+            "Prezident vətəndaşlıqdan məhrum edə bilə",
+            "cinayətə görə vətəndaşlıqdan məhrum edilir",
+            "vətəndaşlıqdan məhrum etməyə yol verilir."
+        ],
+        "answer": "vətəndaşlıqdan məhrum etməyə yol verilmir"
+    },
+    {
+        "question": "Hüquq münasibətlərinin obyektlərinə aid edilmir?",
+        "options": [
+            "əşyalar",
+            "şəxsi münasibətlər",
+            "insan həyatı, sağlamlıq, azadlıq",
+            "gediş üsulu",
+            "hərəkətlər"
+        ],
+        "answer": "gediş üsulu"
+    },
+    {
+        "question": "Hansı xüsusiyyət huquq pozuntusunun subyektiv cəhətini özündə əks etdirir?",
+        "options": [
+            "məqsəd",
+            "ictimai təhlükəli əməl",
+            "ictimai təhlükəli nəticə",
+            "təqsir",
+            "cinayətin baş verdiyi yer"
+        ],
+        "answer": "təqsir"
+    },
+    {
+        "question": "Hansı xüsusiyyət huquq pozuntusunun obyektiv cəhətini özündə əks etdirir?",
+        "options": [
+            "təqsir",
+            "qəsd",
+            "məqsəd",
+            "ictimai təhlükəli nəticə",
+            "motiv"
+        ],
+        "answer": "ictimai təhlükəli nəticə"
+    },
+    {
+        "question": ". Aşağıda göstərilən hallardan hansında cinayətdə iştirakçılığın obyektiv əlamətləri daha əhatəli göstərilmişdir?",
+        "options": [
+            "cinayətin subyekti üçün müəyyən edilən əlamətlərə malik iki və daha artıq şəxsin cinayətdə iştirakı;",
+            "cinayətin subyekti üçün müəyyən edilən əlamətlərin olub-olmamsından asılı olmayaraq cinayətdə iki və daha artıq şəxsin iştirakı; √ cinayətin subyekti üçün qanunla müəyyən edilən əlamətlərə malik iki və daha artıq şəxsin, cinayətdə qəsdən birgə iştirakı. • cinayətdə iki və daha artıq şəxsin iştirakı;",
+            "cinayətin subyekti üçün qanunla müəyyən edilən əlamətlərə malik iki və daha artıq şəxsin cinayətdə birgə iştirakı; 350. Aşağıda sadalanlardan hansı insanın şəxsi hüquq və və azalıqlarına aid edilir?",
+            "istirahət hüququ",
+            "təhsil hüququ",
+            "mədəniyyət hüququ",
+            "tətil hüququ",
+            "xüsusi mülkiyyət hüququ"
+        ],
+        "answer": "xüsusi mülkiyyət hüququ"
+    }
+]

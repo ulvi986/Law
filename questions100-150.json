@@ -1,0 +1,539 @@
+[
+    {
+        "question": "Aşağıda göstərilənlərdən hansı hüquqyaratma fəaliyyətini həyata keçirir?",
+        "options": [
+            "normativ hüquqi aktlar",
+            "hüquqi doktrina",
+            "qərarlar",
+            "məhkəmə presidenti",
+            "hüquqi adətlər"
+        ],
+        "answer": "normativ hüquqi aktlar"
+    },
+    {
+        "question": "Aşağıdakılardan hansı özündə hüququn tarixi formasını əks etdirir?",
+        "options": [
+            "hüquqi müqavilə",
+            "ritual",
+            "məhkəmə presidenti",
+            "hüquqi adətlər",
+            "hüquqi doktrina"
+        ],
+        "answer": "hüquqi adətlər"
+    },
+    {
+        "question": "Hüquq normalarının funksiyalarına aiddir:",
+        "options": [
+            "elmi, təşkiledici",
+            "qoruyucu, nizamlayıcı",
+            "tərbiyəvi,elmi",
+            "təşkiledici",
+            "maarifləndirici"
+        ],
+        "answer": "qoruyucu, nizamlayıcı"
+    },
+    {
+        "question": "Cəmiyyətin və ictimai münasibətlərin nizamlandığı, ictimai qaydalara riayət olunduğu şərait necə adlanır?",
+        "options": [
+            "ənənə",
+            "adət",
+            "davranış qaydaları",
+            "ritual",
+            "qadağanedici hüquq normaları"
+        ],
+        "answer": "qadağanedici hüquq normaları"
+    },
+    {
+        "question": "Hansı hallarda xaricdə yaşayan Azərbaycan Respublikası vətəndaşının öz ölkəsinə qayıtmaq hüququ qanunla məhdudlaşdirila bilər?",
+        "options": [
+            "hərbi və fövqəladə vəziyyət zamanı",
+            "Azərbaycan Respublikası vətəndaşının hər zaman maneəsiz öz ölkəsinə qayıtmaq hüququ var",
+            "müharibə və fövqəladə vəziyyət zamanı",
+            "həmin şəxsin Azərbaycanın milli maraqlarina zidd fəaliyyəti aşkarlanan zaman",
+            "həmin şəxsin xarici dövlət qarşısında öhdəliyi olduqda"
+        ],
+        "answer": "Azərbaycan Respublikası vətəndaşının hər zaman maneəsiz öz ölkəsinə qayıtmaq hüququ var"
+    },
+    {
+        "question": "Azərbycan Respublikası Konstitusiyasına görə qanunvericilik hakimiyyətini hansı dövlət orqanı həyata keçirir • Azərbycan Respublikasının Prezidenti",
+        "options": [
+            "Bələdiyyə orqanları",
+            "Azərbycan Respublikası Konstitusiya Məhkəməsi",
+            "Azərbycan Respublikası Milli Məclisi",
+            "Azərbycan Respublikası Nazirlər Kabineti"
+        ],
+        "answer": "Azərbycan Respublikası Milli Məclisi"
+    },
+    {
+        "question": "AR Konstitusiyanın 56-cı maddəsinə əsasən kimlərin seçilmək hüququ məhdudlaşdırıla bilər?",
+        "options": [
+            "bütün cavablar düzdür",
+            "məhkəmənin qanuni qüvvəyə minmiş hökmü ilə azadlıqdan məhrum edilmiş şəxlərin",
+            "AR-nın Konstitusiyasında və qanunda nəzərdə tutulan digər şəxslərin",
+            "dövlət məmurlarının, din xadimlərinin",
+            "hərbi qulluqçuların, hakimlərin"
+        ],
+        "answer": "bütün cavablar düzdür"
+    },
+    {
+        "question": "26 sentyabr 2016-cı il tarixli AR-nın Konstitusiyasında dəyişikliklər edilməsi haqqında referendumun nəticələrinə əsasən hakimliyə namizədliyin irəli sürülməsi üçün hansı yaş həddi tələb olunur?",
+        "options": [
+            "20 yaşdan yuxarı",
+            "30 yaşdan yuxarı",
+            "yaş həddi şamil olunmur",
+            "25 yaşdan yuxarı",
+            "35 yaşdan yuxarı"
+        ],
+        "answer": "yaş həddi şamil olunmur"
+    },
+    {
+        "question": "26 sentyabr 2016-cı il tarixli AR-nın Konstitusiyasında dəyişikliklər edilməsi haqqında referendumun nəticələrinə əsasən AR-nın Milli Məclisinin deputatlığına namizədliyin irəli sürülməsi üçün hansı yaş həddi tələb olunur?",
+        "options": [
+            "25 yaşdan yuxarı",
+            "yaş həddi şamil olunmur",
+            "30 yaşdan yuxarı",
+            "20 yaşdan yuxarı",
+            "35 yaşdan yuxarı"
+        ],
+        "answer": "yaş həddi şamil olunmur"
+    },
+    {
+        "question": "Azərbycan Respublikası Konstitusiyasının mətnində dəyişikliklər yalnız",
+        "options": [
+            "referendumla qəbul edilə bilər",
+            "Azərbycan Respublikası Prezidenti edə bilər",
+            "Azərbycan Respublikası Nazirlər Kabineti edə bilər",
+            "Azərbycan Respublikası Konstitusiya Məhkəməsi edə bilər",
+            "Azərbycan Respublikası Milli Məclisi edə bilər"
+        ],
+        "answer": "referendumla qəbul edilə bilər"
+    },
+    {
+        "question": "AR-nın vətəndaşlığından çıxma və AR vətəndaşlığının itirilməsi nəyi ifadə edir?",
+        "options": [
+            "ölkədən deportasiya olunmanı",
+            "cinayət məsuliyyətini",
+            "AR-nın vətəndaşlığından",
+            "AR-nın vətəndaşlığına xitam verilməsini",
+            "inzibati məsuliyyəti"
+        ],
+        "answer": "AR-nın vətəndaşlığına xitam verilməsini"
+    },
+    {
+        "question": "Dövlətin suverenliyi nəyi ifadə edir?",
+        "options": [
+            "vergilərin və vergi sisteminin olması",
+            "hakimiyyət səlahiyyətlərinə",
+            "xalqın və ərazinin olması",
+            "dövlət hakimiyyətinin daxili və xarici siyasətinin həyata keçirilməsində müstəqilliyi",
+            "dövlət bayrağının, himninin və gerbinin olması"
+        ],
+        "answer": "dövlət hakimiyyətinin daxili və xarici siyasətinin həyata keçirilməsində müstəqilliyi"
+    },
+    {
+        "question": "Konstitusiyanın bir hissəsi kimi preambula nəyi ifadə edir?",
+        "options": [
+            "əsas hissəni",
+            "bütün bölmələri",
+            "keçid müddəalarını",
+            "giriş hissəsini",
+            "nəticə hissəsini"
+        ],
+        "answer": "giriş hissəsini"
+    },
+    {
+        "question": "Yaranmış ikili vətəndaşlıqdan birinin seçilməsi necə adlanır",
+        "options": [
+            "filmasiya",
+            "reinteqrasiya",
+            "transfert",
+            "optasiya",
+            "naturalizasiya"
+        ],
+        "answer": "optasiya"
+    },
+    {
+        "question": "Vətəndaşlıq məsələlərinin həll edilməsi kimin səlahiyyətindədir",
+        "options": [
+            "Azərbycan Respublikası Milli Məclisin sədrinin",
+            "Baş Nazirin",
+            "Azərbycan Respublikası Konstitusiya Məhkəməsinin",
+            "Azərbycan Respublikası Prezidentinin",
+            "Xarici işlər nazirliyinin"
+        ],
+        "answer": "Azərbycan Respublikası Prezidentinin"
+    },
+    {
+        "question": "Vətəndaşlığın şəxsi vəsatəti ilə əldə edilməsi necə adlanır",
+        "options": [
+            "reinteqrasiya",
+            "naturalizasiya",
+            "filmasiya",
+            "optasiya",
+            "transfert"
+        ],
+        "answer": "naturalizasiya"
+    },
+    {
+        "question": "Vətəndaşlığın anadangəlmə əldə edilməsi üsulu necə adlanır",
+        "options": [
+            "filmasiya",
+            "reinteqrasiya",
+            "transfert",
+            "optasiya",
+            "naturalizasiya"
+        ],
+        "answer": "filmasiya"
+    },
+    {
+        "question": "Vətəndaşlığın əldə edilməsi və itirilməsi qaydaları hansı qanunverici aktla tənzimlənir?",
+        "options": [
+            "Nazirlər kabinetinin qərarları ilə",
+            "Beynəlxalq müqavilələrlə",
+            "Vətəndaşlıq haqqında” Azərbycan Respublikasının qanunu ilə",
+            "Azərbycan Respublikası Mülki- Prosessual Məcəllə ilə",
+            "Azərbycan Respublikası Mülki Məcəlləsi ilə"
+        ],
+        "answer": "Vətəndaşlıq haqqında” Azərbycan Respublikasının qanunu ilə"
+    },
+    {
+        "question": "Şəxs müəyyən səbəbdən öz vətəndaşlığını itirib, sonra bərpa etmək istəyərsə, vətəndaşlığın bərpa olunması necə adlanır",
+        "options": [
+            "reinteqrasiya",
+            "filmasiya",
+            "transfert",
+            "naturalizasiya",
+            "optasiya"
+        ],
+        "answer": "reinteqrasiya"
+    },
+    {
+        "question": "Dövlətin belə xarakteristikası özündə onu ehtiva edir ki, Azərbycan Respublikasında din dövlətdən ayrıdır, başqa sözlə, bunlar bir- biri ilə qarşılıqlı fəaliyyət göstərir, bir- birinin işinə qarışmırlar",
+        "options": [
+            "unitar dövlət",
+            "dünyəvi dövlət",
+            "respublika",
+            "demokratik dövlət",
+            "hüququ dövlət"
+        ],
+        "answer": "dünyəvi dövlət"
+    },
+    {
+        "question": "Daimi əsasda fəaliyyət göstərən, təşəkkül tapmş təşkilatı qurluşa malik olan, parlament və hökümətdə yer əldə etmək üçün açıq şəkildə mübarizə aparan ictimai birlik hansıdır",
+        "options": [
+            "siyasi partiyalar",
+            "gənclər təşkilatı",
+            "həmkarlar ittifaqları",
+            "dini birliklər",
+            "kütləvi ictimai hərəkətlər"
+        ],
+        "answer": "siyasi partiyalar"
+    },
+    {
+        "question": "ərazilər dəyişərkən , yəni bir dövlətdən digərinə keçərkən həmin ərazidə yaşayan əhalinin vətəndaşlığının məyyən olunması necə adlanır",
+        "options": [
+            "optasiya",
+            "transfert",
+            "reinteqrasiya",
+            "filmasiya",
+            "naturalizasiya"
+        ],
+        "answer": "transfert"
+    },
+    {
+        "question": "Konstitusiyaya görə Azərbaycanda mülkiyyətin hansı növləri mövcuddur?",
+        "options": [
+            "şəxsi mülkiyyət",
+            "kolxoz kooperativ mülkiyyəti",
+            "dövlət, xüsusi və bələdiyyə mülkiyyəti",
+            "ictimai mülkiyyət",
+            "hərbi mülkiyyət"
+        ],
+        "answer": "dövlət, xüsusi və bələdiyyə mülkiyyəti"
+    },
+    {
+        "question": "Hüquq münasibətlərində subyektin hüquqi vəzifələrinə nə aid edilir?",
+        "options": [
+            "hərəkətlər",
+            "iddia hüququ",
+            "müvafiq davranış qaydaları",
+            "hüquqauyğun davranış qaydaları",
+            "səlahiyyət hüququ"
+        ],
+        "answer": "hüquqauyğun davranış qaydaları"
+    },
+    {
+        "question": "Hüquq normalarının digər normalarla əlaqəsi və inkişafı necə adlanır?",
+        "options": [
+            "hüquq normalarının adekvat izahı və tətbiqi",
+            "hüquq normalarının qanunauyğun izahı və tətbiqi",
+            "hüquq normalarının tarixi izahı və tətbiqi",
+            "hüquq normalarının məntiqi izahı və tətbiqi",
+            "hüquq normalarının sistematik izahı və tətbiqi"
+        ],
+        "answer": "hüquq normalarının sistematik izahı və tətbiqi"
+    },
+    {
+        "question": "Ümümhüuquq prinsiplərinə nə aid edilmir?",
+        "options": [
+            "humanizm prinsipi",
+            "bütün hüquq subyektəlrinin bərabərliyi",
+            "ədalət prinsipi",
+            "hamının qanun qarşısında bərabərliyi",
+            "digər normativ aktlarla müqayisədə qanunun üstünlüyü"
+        ],
+        "answer": "digər normativ aktlarla müqayisədə qanunun üstünlüyü"
+    },
+    {
+        "question": "Hüquq normasının əsas realizə forması:",
+        "options": [
+            "yerinə yetirmə",
+            "baxış",
+            "icra",
+            "istifadə",
+            "tətbiq etmə"
+        ],
+        "answer": "tətbiq etmə"
+    },
+    {
+        "question": "Yerli özünüidarəetməni kimlər həyata keçirir?",
+        "options": [
+            "Naxçıvan Muxtar Respublikasının yerli icra hakimiyyəti orqanları",
+            "nazirliklər",
+            "yerli icra hakimiyyəti orqanları",
+            "Bələdiyyələr",
+            "Azərbycan Respublikası Milli Məclisinin deputatları"
+        ],
+        "answer": "Bələdiyyələr"
+    },
+    {
+        "question": "AR-nın Prezidenti öz səlahiyyətləri çərçivəsində:",
+        "options": [
+            "göstəriçlər verir",
+            "ancaq qərarlar qəbul edir",
+            "əmrlər verir",
+            "qaydalar müəyyən edir",
+            "fərman və səraəncam verir"
+        ],
+        "answer": "fərman və səraəncam verir"
+    },
+    {
+        "question": "Aşağıda sadalananlardan hansı icra hakimiyyətinin daçıyıcısı kimi Prezidentin hüququdur?",
+        "options": [
+            "vaxtından əvvəl",
+            "hökumətin səlahiyyətinə",
+            "Konstitusiyaya dəyişiklik",
+            "dövlət sərhədlərini",
+            "istədiyi vaxt referendum"
+        ],
+        "answer": "hökumətin səlahiyyətinə"
+    },
+    {
+        "question": "İnsanın hüquq və azadlıqlarından şəxsi həyatın, gizli yazışmaların və telefon danışıqlarının, şəxsi və ailə sirrinin toxunulmazlığı hüququna aiddir:",
+        "options": [
+            "sosial təminat hüququ",
+            "mədəniyyət hüququ",
+            "nigah hüququ",
+            "mənzil toxunulmazlığı",
+            "şəxsi toxunulmazlıq"
+        ],
+        "answer": "şəxsi toxunulmazlıq"
+    },
+    {
+        "question": "AR-nın Prezidenti seçilir:",
+        "options": [
+            "Ali Məhkəmənin qərarı ilə",
+            "Baş nazirin təqdimatı",
+            "Milli Məclis tərəfindən",
+            "xalq tərəfindən",
+            "Konstitusiya Məhkəməsinin"
+        ],
+        "answer": "xalq tərəfindən"
+    },
+    {
+        "question": "Dövlət hakimiyyəti nəyin əsasında həyata keçirilir?",
+        "options": [
+            "Nazirlər Kabinetinin",
+            "məhkəmə presedentinin",
+            "qanunvericilik aktlarının",
+            "prezidentin fərman və",
+            "Konstitusiyanın"
+        ],
+        "answer": "Konstitusiyanın"
+    },
+    {
+        "question": "AR-da icra hakimiyyətinin daşıyıcısı kimdir?",
+        "options": [
+            "baş nazir",
+            "hökumət",
+            "xalq",
+            "prezident",
+            "birinci vitse prezident"
+        ],
+        "answer": "prezident"
+    },
+    {
+        "question": "Sadalanan prinsiplərdən hansı ədalət mühakiməsinin sahə prinsiplərinə aid deyildir",
+        "options": [
+            "bilavasitəlik prinsipi",
+            "tərəflərin hüqüq bərabərliyi prinsipi",
+            "dispozitivlik prinsipi",
+            "şifailik prinsipi",
+            "obyektiv həqiqət prinsipi"
+        ],
+        "answer": "tərəflərin hüqüq bərabərliyi prinsipi"
+    },
+    {
+        "question": "Sadalanan prinsipldən hansı ədalət mühakiməsinin konstitusiya prinsiplərinə aid deyildir",
+        "options": [
+            "çəkişmə",
+            "obyektiv həqiqət prinsipi",
+            "hakimlərin müstəqilliyi",
+            "işlərə açıq sürətdə baxılması",
+            "vətəndaşlarin qanun və məhkəmə qarşısında bərabərliyiı"
+        ],
+        "answer": "obyektiv həqiqət prinsipi"
+    },
+    {
+        "question": "Azərbaycan Respublikasinda ədalət mühakiməsi hansi orqan tərəfindən həyata keçirilir",
+        "options": [
+            "məhkəmələr",
+            "prokurorluq",
+            "ombudsman",
+            "Avropa insan hüqüqları məhkəməsi",
+            "münsiflər məhkməsi"
+        ],
+        "answer": "məhkəmələr"
+    },
+    {
+        "question": "Ombudsman seçilməsi hansı qaydada həyata keçirilir?",
+        "options": [
+            "Ombudsman Prezidentin Milli Məclis sədrinin və Konstitutsiya Məhkəməsi sədrinin birgə təqdim etdiyi üç namizəd arasından Azərbaycan Respublikasının Milli Məclisi seçir",
+            "Ombudsman Prezidentin təqdim etdiyi üç namizəd arasından Azərbaycan Respublikasının Milli Məclisi seçir • Ombudsman Milli Məclis sədrinin təqdim etdiyi üç namizəd arasından Azərbaycan Respublikasının Milli Məclisi seçir • Ombudsman Konstitutsiya Məhkəməsi sədrinin təqdim etdiyi üç namizəd arasından Azərbaycan Respublikasının Milli Məclisi seçir",
+            "Ombudsman Prezidentin, Milli Məclis və Ali Məhkəmə sədrinin birgə təqdim etdiyi üç namizəd arasından Azərbaycan Respublirasının Milli Məclisi seçir"
+        ],
+        "answer": "Ombudsman Prezidentin Milli Məclis sədrinin və Konstitutsiya Məhkəməsi sədrinin birgə təqdim etdiyi üç namizəd arasından Azərbaycan Respublikasının Milli Məclisi seçir"
+    },
+    {
+        "question": "Azərbycan Dövlətinin müstəqilliyinin, ərazi bütövlüyünün, məhkəmə hakimiyyətinin müstəqilliyinin təminatçısı",
+        "options": [
+            "Azərbycan Respublikası Konstitusiya Məhkəməsidir",
+            "Azərbycan Respublikası Müdafiə Nazirliyidir",
+            "Azərbycan Respublikası Prokurorluğudur",
+            "Azərbycan Respublikası Prezidentidir",
+            "Azərbycan Respublikası Milli Məclisidir"
+        ],
+        "answer": "Azərbycan Respublikası Prezidentidir"
+    },
+    {
+        "question": "əfv etmək kimin səlahiyyətindədir",
+        "options": [
+            "Azərbycan Respublikası Milli Məclisi",
+            "Azərbycan Respublikası Baş Naziri",
+            "Azərbycan Respublikası Konstitusiya Məhkəməsinin sədri",
+            "Azərbycan Respublikası Prezidenti",
+            "Azərbycan Respublikası Ali Məhkəməsinin sədri"
+        ],
+        "answer": "Azərbycan Respublikası Prezidenti"
+    },
+    {
+        "question": "Aşağıda göstərilən subyektlərdən hansı Azərbycan Respublikası dövlət büdcəsinin layihəsini hazırlayıb Azərbycan Respublikası Prezidentinə təqdim etmək səlahiyyətindədir",
+        "options": [
+            "Azərbycan Respublikasının Maliyyə Naziri",
+            "İqtisadi inkişaf naziri",
+            "Azərbycan Respublikası Nazirlər Kabineti",
+            "Azərbycan Respublikası Milli Məclisi",
+            "Azərbycan Respublikası Mərkəzi Bankının idarə heyyəti"
+        ],
+        "answer": "Azərbycan Respublikası Nazirlər Kabineti"
+    },
+    {
+        "question": "Аşağıda göstərilən subyektlərdən hansı siyasi sığınacaq verilməsi məsələlərini həll etmək səlahiyyətindədir",
+        "options": [
+            "Azərbycan Respublikası Milli Məclisinin sədri",
+            "Azərbycan Respublikası Baş Prokuroru",
+            "Azərbycan Respublikası Prezidenti",
+            "Azərbycan Respublikası Baş Naziri",
+            "Xarici Işlər Naziri"
+        ],
+        "answer": "Azərbycan Respublikası Prezidenti"
+    },
+    {
+        "question": "Qanunların eyni cür və dürüst icra və tətbiq olunmsına nəzarət edən dövlət orqanı hansıdır",
+        "options": [
+            "Prokurorluq orqanları",
+            "Məhkəmə orqanları",
+            "Azərbycan Respublikası Nazirlər Kabineti",
+            "Azərbycan Respublikası Konstitusiya Məhkəməsi",
+            "Azərbycan Respublikası Milli Məclisi"
+        ],
+        "answer": "Prokurorluq orqanları"
+    },
+    {
+        "question": "Mülkü huquq münasibətlərinin subyektləri kimdi?",
+        "options": [
+            "bələdiyyələr:",
+            "xarici vətəndaşlar:",
+            "vətəndaşlıgı olmayan şəxslər:",
+            "prezident və nazirlər kabineti:",
+            "fiziki şəxslər, hüquqi şəxslər,dövlət,yerli özünü idarə orqanları."
+        ],
+        "answer": "fiziki şəxslər, hüquqi şəxslər,dövlət,yerli özünü idarə orqanları."
+    },
+    {
+        "question": "Huquqi şəxslərə aiddir?",
+        "options": [
+            "nazirlər kabineti:",
+            "müəssusələr, təşkilatlar, idarələr",
+            "vətəndaşlar:",
+            "bələdiyyələr:",
+            "prezident:"
+        ],
+        "answer": "müəssusələr, təşkilatlar, idarələr"
+    },
+    {
+        "question": "Fiziki şəxslərə aiddir?",
+        "options": [
+            "Azərbaycan Respublikasının vətəndaşları, AR-da daimi yaşayan əcnəbilər, vətəndaşlıgı olmayan şəxslər • nazirlər kabineti:",
+            "prezident:",
+            "xarici vətəndaşlar:",
+            "bələdiyyələr:"
+        ],
+        "answer": "Azərbaycan Respublikasının vətəndaşları, AR-da daimi yaşayan əcnəbilər, vətəndaşlıgı olmayan şəxslər • nazirlər kabineti:"
+    },
+    {
+        "question": "Şəxsi qeyri əmlak münasibətlərinə aiddir?",
+        "options": [
+            "mülkü hüququn subyektləri:",
+            "hüquqi faktlar:",
+            "mülkü hüququn obyektləri:",
+            "əqdlər:",
+            "şəxsi qeyri -əmlak xarakterli hüquq münasibətləri, yaradıcı fəaliyyəti özündə cəmləşdirən hüquq münasibətləri, təşkilati hüquq münasibətləri"
+        ],
+        "answer": "şəxsi qeyri -əmlak xarakterli hüquq münasibətləri, yaradıcı fəaliyyəti özündə cəmləşdirən hüquq münasibətləri, təşkilati hüquq münasibətləri"
+    },
+    {
+        "question": "Hüquqi fakt nədir?",
+        "options": [
+            "şəxsi qeyri əmlak münasibətləri:",
+            "mülkü münasibətlərinin əmələ qəlməsi, dəyişməsi, xitam edilməsinə səbəb olan həyati hallar",
+            "mülkü münasibətlər:",
+            "əmək münasibətləri:"
+        ],
+        "answer": "mülkü münasibətlərinin əmələ qəlməsi, dəyişməsi, xitam edilməsinə səbəb olan həyati hallar"
+    },
+    {
+        "question": ". Aşağıda göstərilən hallardan hansında cinayətdə iştirakçılığın obyektiv əlamətləri daha əhatəli göstərilmişdir?",
+        "options": [
+            "cinayətin subyekti üçün müəyyən edilən əlamətlərə malik iki və daha artıq şəxsin cinayətdə iştirakı;",
+            "cinayətin subyekti üçün müəyyən edilən əlamətlərin olub-olmamsından asılı olmayaraq cinayətdə iki və daha artıq şəxsin iştirakı; √ cinayətin subyekti üçün qanunla müəyyən edilən əlamətlərə malik iki və daha artıq şəxsin, cinayətdə qəsdən birgə iştirakı. • cinayətdə iki və daha artıq şəxsin iştirakı;",
+            "cinayətin subyekti üçün qanunla müəyyən edilən əlamətlərə malik iki və daha artıq şəxsin cinayətdə birgə iştirakı; 350. Aşağıda sadalanlardan hansı insanın şəxsi hüquq və və azalıqlarına aid edilir?",
+            "istirahət hüququ",
+            "təhsil hüququ",
+            "mədəniyyət hüququ",
+            "tətil hüququ",
+            "xüsusi mülkiyyət hüququ"
+        ],
+        "answer": "xüsusi mülkiyyət hüququ"
+    }
+]
