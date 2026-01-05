@@ -1,0 +1,559 @@
+[
+    {
+        "question": "Hüquqi fakt nədir?",
+        "options": [
+            "şəxsi qeyri əmlak münasibətləri:",
+            "mülkü münasibətlərinin əmələ qəlməsi, dəyişməsi, xitam edilməsinə səbəb olan həyati hallar",
+            "mülkü münasibətlər:",
+            "əmək münasibətləri:"
+        ],
+        "answer": "mülkü münasibətlərinin əmələ qəlməsi, dəyişməsi, xitam edilməsinə səbəb olan həyati hallar"
+    },
+    {
+        "question": "AR-nın Mülkü qanunvericiliyi məkana görə ............qüvvədədir",
+        "options": [
+            "Naxçıvan Muxtar Respublikasının ərazisində",
+            "Bütün dünyada:",
+            "Bakı şəhərində:",
+            "Azərbaycan Respublikasının bütün ərazisində"
+        ],
+        "answer": "Azərbaycan Respublikasının bütün ərazisində"
+    },
+    {
+        "question": "Mülkü hüququn mənbəyinə aiddir?",
+        "options": [
+            "Azərbaycan Respublikasının Konstitusiyasi , Mülkü məcəllə",
+            "normativ akt:",
+            "əmək məcəlləsi:",
+            "qanun qüvvəli aktlar:",
+            "nazirlər kabinetinin qəbul etdiyi bütün aktlar:"
+        ],
+        "answer": "Azərbaycan Respublikasının Konstitusiyasi , Mülkü məcəllə"
+    },
+    {
+        "question": "Mulkü huquq hansı münasibətləri tənzimləyir?",
+        "options": [
+            "əmlak münasibətləri :",
+            "əmlak münasibətlərini və bununla baglı şəxsi qeyri əmlak münasibətləri",
+            "inzibati münasibətləri:",
+            "əmək münasibətlərini:",
+            "əmtəə- pul münasibətləri:"
+        ],
+        "answer": "əmlak münasibətlərini və bununla baglı şəxsi qeyri əmlak münasibətləri"
+    },
+    {
+        "question": "Dövlət sahibkarlıq sahəsi ilə bağlı hansı tənzimlənməni həyata keçirir?",
+        "options": [
+            "insan həyatının müdafiəsi ilə bağlı tənzimlənməni",
+            "sağlamlığın müdafiəsi ilə bağlı tənzimlənməni",
+            "bütün cavablar düzdür",
+            "dövlət maraqlarının müdafiəsi ilə bağlı tənzimlənməni",
+            "dövlət mənafelərinin qorunması ilə bağlı tənzimlənməni"
+        ],
+        "answer": "bütün cavablar düzdür"
+    },
+    {
+        "question": "Fəaliyyət qabiliyyəti nədir?",
+        "options": [
+            "subyektin öz hərəkətləri ilə tam həcmdə hüquqlar əldə etmək və özü üçün vəzifələr yaratmaq qabiliyyət",
+            "hüquqi şəxslərin qanunvericiliklə müəyyən edilmiş hüquqlara malik olmaq və hüquqi vəzifələr daşımaq qabiliyyəti • subyektin öz hərəkətləri ilə tam həcmdə vəzifələr əldə etmək və özü üçün vəzifələr yaratmaq qabiliyyəti",
+            "hüquqi şəxslərin öz hərəkətləri ilə tam həcmdə hüquqlar əldə etmək və özü üçün vəzifələr yaratmaq qabiliyyəti • subyektin qanunvericiliklə müəyyən edilmiş vəzifələrə malik olmaq və hüquqi vəzifələr daşımaq qabiliyyəti"
+        ],
+        "answer": "subyektin öz hərəkətləri ilə tam həcmdə hüquqlar əldə etmək və özü üçün vəzifələr yaratmaq qabiliyyət"
+    },
+    {
+        "question": "Hüquqi şəxsin olduğu yer hara sayılır ?",
+        "options": [
+            "heç biri",
+            "daimi fəaliyyət göstərən orqanın yerləşdiyi yer;",
+            "hüquqi şəxsin əmlakının əksəriyyətinin yerləşdiyi yer;",
+            "hüquqi şəxsin daşınmaz əmlakının yerləşdiyi yer;",
+            "hüquqi şəxsin tərəfdaşlarının daha çox olduğu yer;"
+        ],
+        "answer": "daimi fəaliyyət göstərən orqanın yerləşdiyi yer;"
+    },
+    {
+        "question": "Hüquqi şəxssin hüquq qabiliyyəti hansı andan yaranır?",
+        "options": [
+            "ilkin razılaşma əldə olunduğu andan;",
+            "sənədlərin qeydiyyat üçün dövlət orqanına verildiyi andan;",
+            "təsis olunduğu andan;",
+            "hüquqi şəxs fəaaliyyətə başladığı andan.",
+            "dövlət qeydiyyatına alındığı andan;"
+        ],
+        "answer": "dövlət qeydiyyatına alındığı andan;"
+    },
+    {
+        "question": "Mülki qanunvericilik normalarının geriyə qüvvəsi varmı?",
+        "options": [
+            "heç bir halda yoxdur;",
+            "hər bir halda geriyə qüvvəsi var;",
+            "müqavilədə birbaşa nəzərdə tutulduqda ola bilər;",
+            "məsuliyyəti yüngülləşdirdiyi halda geriyə qüvvəsi var;",
+            "qanunla birbaşa nəzərdə tutulduqda ola bilər;"
+        ],
+        "answer": "qanunla birbaşa nəzərdə tutulduqda ola bilər;"
+    },
+    {
+        "question": "Ailə,əmək münasibətləri,təbii ehtiyaclardan istifadə,ətraf mühitin mühafizəsi,müəlliflik hüququ və əlaqəli hüquqlarla bağlı münasibətlərə mülki qanunvericilik normaları şamil edilirmi,,,",
+        "options": [
+            "adı çəkilən münasibətləri tənzimləyən qanun vericilikdə ayrı qayda yoxdursa mülki qanunvericilik normaları da bu münasibətlərə tədbiq edilir.",
+            "onlar başqa hüquqi aktları ilə tənzimlənir;",
+            "şamil edilir;",
+            "tərəflərin razılığı ilə tədbiq olunur;",
+            "heç bir halda tədbiq olunmur;"
+        ],
+        "answer": "adı çəkilən münasibətləri tənzimləyən qanun vericilikdə ayrı qayda yoxdursa mülki qanunvericilik normaları da bu münasibətlərə tədbiq edilir."
+    },
+    {
+        "question": "Ümumi iddia müddəti nə qədərdir?",
+        "options": [
+            "6 il",
+            "10 il",
+            "30 il",
+            "15 il",
+            "3 il"
+        ],
+        "answer": "10 il"
+    },
+    {
+        "question": "Hüquqi nəticəyə səbəb olan hüquqi faktlar hansıdır?",
+        "options": [
+            "hüquq yaradan hüquqi faktlar",
+            "hüquq yaradan hüquqi faktlar, hüquq dəyişən hüquqi faktlar, xitamverici hüquqi faktlar",
+            "xitamverici hüquqi faktlar",
+            "hüquq pozan hüquqi faktlar",
+            "hüquq dəyişən hquqi faktlar"
+        ],
+        "answer": "hüquq yaradan hüquqi faktlar, hüquq dəyişən hüquqi faktlar, xitamverici hüquqi faktlar"
+    },
+    {
+        "question": "Yuxarıda göstərilənlərdən hansı Azərbaycan Respublikasının mülki hüququnun mənbəyi sayılmır?",
+        "options": [
+            "qanunlardan aşağı qüvvəli normativ aktlar",
+            "beynəlxalq müqavilələr",
+            "məhkəmə presedentləri",
+            "qanunlar",
+            "işgüzar adətlər"
+        ],
+        "answer": "məhkəmə presedentləri"
+    },
+    {
+        "question": "Aşağıda göstərilənlərdən kimlər mülki hüquq münasibətlərinin subyektləridir?",
+        "options": [
+            "yuxarıdakı bəndlərdə göstərilənlərin hamısı",
+            "yerli özünüidarə oorqanları",
+            "hüquqi şəxslər",
+            "fiziki şəxslər",
+            "dövlət hakimiyyət orqanları"
+        ],
+        "answer": "yuxarıdakı bəndlərdə göstərilənlərin hamısı"
+    },
+    {
+        "question": "Hər hansı fiziki şəxsi digər fiziki şəxsdən fərqləndirən əlamət hansıdır?",
+        "options": [
+            "heç bir fərq yoxdur",
+            "ad hüququ;",
+            "fəaliyyət qabiliyyəti;",
+            "mülki hüquqları;",
+            "hüquq qabiliyyəti;"
+        ],
+        "answer": "ad hüququ;"
+    },
+    {
+        "question": "Hüquqi şəxsin xitamı qaydaları",
+        "options": [
+            "təsviyyə,yenidən təşkiletmə;",
+            "icazə, sərəncam;",
+            "ləğvetmə, təsviyyə;",
+            "ləğvetmə",
+            "sərəncam, təsviyyə;"
+        ],
+        "answer": "təsviyyə,yenidən təşkiletmə;"
+    },
+    {
+        "question": "Mülki hüquq hansı münsibətləri tənzim edir?",
+        "options": [
+            "bir tərəfin digər tərəfə tabelyinə əsaslanan əmlak münasibətlərini",
+            "tərəflərin hüquq bərabərliyinə əsaslanan əmlak və şəxsi qeyri-əmlak münasibətlərini",
+            "bankla müştəri arasında kredit münasibətlərini",
+            "vergidən yayınma nəticəsin7də vurulmuş zərərin ödənilməsinə dair münasibətləri",
+            "işçi ilə işəgötürən rasında əmlak münasibətlərini"
+        ],
+        "answer": "tərəflərin hüquq bərabərliyinə əsaslanan əmlak və şəxsi qeyri-əmlak münasibətlərini"
+    },
+    {
+        "question": "Qanunun analojiyası nədir?",
+        "options": [
+            "tərəflərin razılaşması ilə münasibətlərin həll olunması",
+            "işgüzar adətlər əsasında münasibətlərin nizama salınması",
+            "qanunvericilik, tərəflərin razılaşması və ya işgüzar adətlər olmadıqda mülki hüquq münasibətlərinin onların mahiyyətinə zidd olmayanoxşar münasibətləri tənzimləyən qanunvericilik nomaları ilə nizamlanması",
+            "oxşar münasibətləri tənzimləyən mülki qanunvericilik normalarının tətbiqi",
+            "mülki qanunvericilik prinsiplərinin tətbiqi"
+        ],
+        "answer": "qanunvericilik, tərəflərin razılaşması və ya işgüzar adətlər olmadıqda mülki hüquq münasibətlərinin onların mahiyyətinə zidd olmayanoxşar münasibətləri tənzimləyən qanunvericilik nomaları ilə nizamlanması"
+    },
+    {
+        "question": "Hansı hüquq sahəsində analogiyaya yol verilir?",
+        "options": [
+            "cinayət hüququnda",
+            "cinayət prosesual hüquqünda",
+            "vergi hüququnda",
+            "mülki hüquqda",
+            "mülki prosesual hüquqda"
+        ],
+        "answer": "mülki hüquqda"
+    },
+    {
+        "question": "Maddi məzmununa görə mülki hüquq münasibətləri hansı növlərə bölünür?",
+        "options": [
+            "nisbi hüquq münasibətlərinə",
+            "əmlak münasibətlərinə və şəxsi qeyri-əmlak münasibətlərinə",
+            "öhdəlik hüquq münasibətlərinə",
+            "təşkilati hüquq münasibətlərinə",
+            "mütləq hüquq münasibətəlrinə"
+        ],
+        "answer": "əmlak münasibətlərinə və şəxsi qeyri-əmlak münasibətlərinə"
+    },
+    {
+        "question": "Hüququ pozulmuş şəxs ona vurulmuş zərərin əvəzinin tam ödənilməsini hansı hallarda tələb edə bilər?",
+        "options": [
+            "bütün hallarda",
+            "heç bir halda",
+            "yalnız qəsdən vurulmuş zərərin əvəzinin tam ödənilməsini tələb edə bilər",
+            "qanunda və ya müqavilədə zərərin əvəzinin daha az miqdarda ödənilməsi nəzərdə tutulmayan hallarda • yalnız kobud ehtiyatsızlıq nətidəsində vurulmuş zərərin əvəzinin tam tam ödənilməsini tələb edə bilər"
+        ],
+        "answer": "qanunda və ya müqavilədə zərərin əvəzinin daha az miqdarda ödənilməsi nəzərdə tutulmayan hallarda • yalnız kobud ehtiyatsızlıq nətidəsində vurulmuş zərərin əvəzinin tam tam ödənilməsini tələb edə bilər"
+    },
+    {
+        "question": "Fiziki şəxsin mülkü hüquq qabiliyəti nədir?",
+        "options": [
+            "şəxsin öz hərəkətləri ilə mülkü hüquqlar əldə etməsi və həyata keçirməsi",
+            "insanınmülkü hüquq vəzifələri olması",
+            "insanın mülkü hüquqlarının olması",
+            "insanın mülki hüquqlarının olması və insanın mülki hüquq vəzifələri daşıması",
+            "şəxsin öz hərəkətləri ilə mülkü vəzifələr yaratması və icra edilməsi"
+        ],
+        "answer": "insanın mülki hüquqlarının olması və insanın mülki hüquq vəzifələri daşıması"
+    },
+    {
+        "question": "Himayəçilikdə olanların adından zəruri əqdləri kim bağlayır?",
+        "options": [
+            "bütün hallarda himayəçilər",
+            "bütün hallarda onların razılığı ilə himayəçilər",
+            "bütün hallarda himayəçilərin razılığı ilə özləri",
+            "daşınmaz əmlakla bağlı olduqda onların razılığı ilə himayəçilər",
+            "bütün hallarda özləri"
+        ],
+        "answer": "bütün hallarda himayəçilərin razılığı ilə özləri"
+    },
+    {
+        "question": "Fəaliyyət qabiliyyəti məhdudlaşdırılan şəxslər himəyəçi təyin edilə bilərmi?",
+        "options": [
+            "yaxın qohumlarına münasibətdə ola bilərlər",
+            "bəli",
+            "xeyr",
+            "qəyumluq və himayəçilik orqanları razılıq verdikdə ola bilər",
+            "şəxsin fəaliyyət qabiliyyətinin məhdudlaşdırılması ilə bağlı məhkəmə qətnaməsində qadağa yoxdursa ola bilər 178. əqd nədir?",
+            "mülki hüquq münasibətlərinin əmələ gəlməsinə, dəyişməsinə və xitamına yönəldilmiş birtərəfli, ikitərəfli və ya çoxtərəfli iradə ifadəsidir",
+            "mülki hüquq münasibətlərinin əmələ gəlməsinə və xitamına yönəldilmiş ikitərəfli və ya çoxtərəfli iradə ifadəsidir • mülki hüquq münasibətlərinin əmələ gəlməsinə, dəyişməsinə və xitamına yönəldilmiş ikitərəfli və ya çoxtərəfli iradə ifadəsidir • mülki hüquq münasibətlərinin əmələ gəlməsinə, dəyişməsinə və xitamına yönəldilmiş birtərəfli və ya ikitərəfli iradə ifadəsidir • mülki hüquq münasibətlərinin əmələ gəlməsinə, dəyişməsinə və xitamına yönəldilmiş birtərəfli iradə ifadəsidir"
+        ],
+        "answer": "mülki hüquq münasibətlərinin əmələ gəlməsinə, dəyişməsinə və xitamına yönəldilmiş birtərəfli, ikitərəfli və ya çoxtərəfli iradə ifadəsidir"
+    },
+    {
+        "question": "əqd barədə mübahisə edildikdə, əqd nə vaxtdan etibarsız sayılır?",
+        "options": [
+            "məhkəmə qətnaməsi qanuni qüvvəyə mindiyi andan etibarsız sayılır",
+            "bağlandığı andan etibarsız sayılır",
+            "əqdin mübahisə edilməsi barədə digər tərəfə bildirildiyi andan",
+            "mübahisə yarandığı andan etibarsız sayılır",
+            "bu barədə məhkəmə qərarının çıxarıldığı andan etibarsız sayılır"
+        ],
+        "answer": "bağlandığı andan etibarsız sayılır"
+    },
+    {
+        "question": "Müddət nədir?",
+        "options": [
+            "mülki hüquq və vəzifələrin məhkəmədə müdafiə edilməsi üçün vaxtdır",
+            "mülki hüquq və vəzifələrin qüvvədə olduğu vaxtdır",
+            "ümumi hüquqların mövcud olduğu vaxtdır",
+            "mülki hüquq və vəzifələrin əmələ gəlməsi, dəyişdirilməsi və xitam edilməsi ilə bağlı vaxtdır",
+            "başqa şəxsdən hər hansı hərəkəti yerinə yetirməyi və ya yerinə yetirməkdən çəkindirməyi tələb etmək üçün vaxtdır 181. İddia müddəti buraxılıbsa, hüququn müdafiəsi haqqında tələbi məhkəmə baxmağa qəbul etməlidirmi?",
+            "qəbul etməlidir",
+            "müddət üzürlü səbəbdən ötürüldükdə qəbul edilə bilər",
+            "ümumi iddia müddəti istisna olmaqla digər iddia müddətləri keçibsə, qəbul etməməlidir",
+            "ümumi iddia müddəti istisna olmaqla digər iddia müddətləri keçibsə qəbul edilməlidir",
+            "qəbul etməli deyil"
+        ],
+        "answer": "qəbul etməlidir"
+    },
+    {
+        "question": "Birtərəfli əqd nədir?",
+        "options": [
+            "Mülkü Məcəlləyə uyğun olaraq bağlanması üçün bir tərəfin iradə ifadəsi zəruri olan əqddir",
+            "qanuna uyğun olaraq digər tərəfin və ya soruşulmadan bir tərəfin iradə ifadəsi ilə bağlanılan əqddir",
+            "Mülkü Məcəllə və ya tərəflərin razılaşmasına uyğun olaraq bağlanması üçün bir tərəfin iradə ifadəsi zəruri və yetərli olan, digər tərəfin isə onun etirazsız qəbul etməsi yetərli olan əqddir",
+            "Mülkü Məcəlləyə və ya tərəflərin razılaşmasına uyğun olaraq bağlanması üçün bir tərəfin iradə ifadəsi zəruri və yetərli olan əqddir • tərəflərin razılaşmasına uyğun olaraq bağlanması üçün bir tərəfin iradə ifadəsi zəruri olan əqddir"
+        ],
+        "answer": "Mülkü Məcəlləyə və ya tərəflərin razılaşmasına uyğun olaraq bağlanması üçün bir tərəfin iradə ifadəsi zəruri və yetərli olan əqddir • tərəflərin razılaşmasına uyğun olaraq bağlanması üçün bir tərəfin iradə ifadəsi zəruri olan əqddir"
+    },
+    {
+        "question": "əqdlər hansı formada bağlana bilər?",
+        "options": [
+            "şifahi və ya mürəkkəb",
+            "şifahi və ya yazılı",
+            "yalnız yazılı",
+            "mürəkkəb və ya sadə",
+            "yazılı və ya sadə"
+        ],
+        "answer": "şifahi və ya yazılı"
+    },
+    {
+        "question": "Yazılı əqd necə bağlanılır?",
+        "options": [
+            "onun məzmununu ifadə edən müəyyən sənədlər tərtibi yolu ilə bağlanılır",
+            "onun məzmununu ifadə edən və əqdi bağlayan şəxslərin lazımınca vəkil etdikləri şəxslər tərəfindən imzalanmış sənədin tərtibi yolu ilə bağlanır",
+            "onun məzmununu ifadə edən müəyyən niyyətin rəsmiləşdirilməsi yolu ilə bağlanır",
+            "onun məzmununu ifadə edən və əqdi bağlayan şəxslər və ya onların lazımınca vəkil etdikləri şəxslər tərəfindən imzalanmış sənədin tərtibi yolu ilə bağlanır",
+            "onun məzmununu ifadə edən və yalnız əqdi bağlayan şəxslər tərəfindən imzalanmış sənədin tərtibi yolu ilə bağlanır 185. Bir fiziki şəxs əqd bağlayarkən onun əvəzindən başqa şəxs həmin əqdi imzalaya bilərmi?",
+            "bütün hallarda imzalaya bilər",
+            "fiziki şəxs savadsızdırsa, başqa şəxs onun bağladığı əqdi imzalaya bilər",
+            "fiziki şəxs bədən qüsuruna, xəstəliyinə və ya savadsızlığına görə əqdi imzalaya bilmirsə, başqa şəxs onun bağladığı əqdi imzalaya bilər • fiziki şəxs fəaliyyət qabiliyyətsizdirsə və ya fəaliyyət qabiliyyəti məhdudlaşdırılıbsa, başqa şəxs onun bağladığı əqdi imzalaya bilər • heç bir halda imzalaya bilməz"
+        ],
+        "answer": "fiziki şəxs bədən qüsuruna, xəstəliyinə və ya savadsızlığına görə əqdi imzalaya bilmirsə, başqa şəxs onun bağladığı əqdi imzalaya bilər • fiziki şəxs fəaliyyət qabiliyyətsizdirsə və ya fəaliyyət qabiliyyəti məhdudlaşdırılıbsa, başqa şəxs onun bağladığı əqdi imzalaya bilər • heç bir halda imzalaya bilməz"
+    },
+    {
+        "question": "Vaxt dövrü ilə müəyyənləşdirilmiş müddətin axımı nə vaxtdan başlanır?",
+        "options": [
+            "təqvim tarixindən sonrakı gün başlanır",
+            "hökmən baş verməli olan hadisənin göstərildiyi gündən sonrakı gün başlanır",
+            "təqvim tarixində göstərilən gündən başlanır",
+            "müəyyən hadisənin baş verməsindən sonrakı gün başlanır",
+            "müəyyən hadisənin baş verdiyi gün başlanır"
+        ],
+        "answer": "təqvim tarixindən sonrakı gün başlanır"
+    },
+    {
+        "question": "Aşağıdakılardan hansı iddia müddətinin axımının kəsilməsidir?",
+        "options": [
+            "iddiaçı və ya cavabdeh hərbi vəziyyətə keçirilmiş silahlı qüvvələrin tərkibində olduqda",
+            "müvafiq münasibətləri tənzimləyən qanunun və ya digər normativ hüquqi aktın qüvvəsi dayandırıldıqda",
+            "müəyənləşdirilmiş qaydada iddia irəli sürüldükdə",
+            "fəaliyyət qabiliyəti olmayan şəxsin qanuni təmsilçisi olmadıqda",
+            "müvafiq icra hakimiyyəti orqanı öhdəliklərin icrası üçün mghlət müəyyənləşdirdikdə"
+        ],
+        "answer": "müəyənləşdirilmiş qaydada iddia irəli sürüldükdə"
+    },
+    {
+        "question": "Aşağıdakılardan hansına iddia müddəti şamil edilmir?",
+        "options": [
+            "şəxsi qeyri- əmlak hüquqlarının və digər qeyri-maddi nemətlərin müdafiəsi haqqında tələblər",
+            "mülkiyyətçinin və sahibin hüquqlarının pozuntularının aradan qaldırılması tələbləri,dövlət və ya bələdiyyə orqanının və ya onların vəzifəli şəxslərinin mülkiyyətçinin hüquqlarını pozmuş aktının etibarsız sayılması haqqında mülkiyyətçinin tələbləri • bütün variantlar",
+            "fiziki şəxsin həyatına və ya sağlamlığına vurulmuş zərərin əvəzinin ödənilməsi haqqında tələbləri",
+            "əmanətlərin verilməsi haqqında əmanətçilərin banka tələbləri"
+        ],
+        "answer": "mülkiyyətçinin və sahibin hüquqlarının pozuntularının aradan qaldırılması tələbləri,dövlət və ya bələdiyyə orqanının və ya onların vəzifəli şəxslərinin mülkiyyətçinin hüquqlarını pozmuş aktının etibarsız sayılması haqqında mülkiyyətçinin tələbləri • bütün variantlar"
+    },
+    {
+        "question": "Hansı şərtlər müqavilənin mühüm şərtləri sayılır?",
+        "options": [
+            "müqavilədəki predmetinə dair şərtlər",
+            "tərəflərdən birinin müraciəti ilə barəsində razılaşma əldə edilməli olan bütün şərtlər",
+            "müqavilənin predmeti və qiymətinə dair şərtlər",
+            "müqavilənin qiymətinə və icra olunması müddətinə dair şərtlər",
+            "müqavilənin predmetinə dair şərtlər, MM- də həmin növ müqavilələr üçün mühüm və ya zəruri adlandırılmış şərtlər,habelə tərəflərdən birinin müraciəti ilə barəsində razılaşma əldə edilməli olan bütün şərtlər"
+        ],
+        "answer": "müqavilənin predmetinə dair şərtlər, MM- də həmin növ müqavilələr üçün mühüm və ya zəruri adlandırılmış şərtlər,habelə tərəflərdən birinin müraciəti ilə barəsində razılaşma əldə edilməli olan bütün şərtlər"
+    },
+    {
+        "question": "3 illik iddia müddəti hansı hallara şamil olunur?",
+        "options": [
+            "daşınmaz əmlakla bağlı iddia müddətinə",
+            "daşınar əmlakla bbağlı iddia müddətinə",
+            "heç bir halda",
+            "müqavilə tələbləri üzrə iddia müddətinə",
+            "ümumi iddia müddətinə"
+        ],
+        "answer": "müqavilə tələbləri üzrə iddia müddətinə"
+    },
+    {
+        "question": "10 illik iddia müddəti hansı hallara şamil olunur?",
+        "options": [
+            "daşınmaz əmlakla bağlı iddia müddətinə",
+            "ümumi iddia müddətinə",
+            "daşınar əmlakla bağlı iddia müddətinə",
+            "heç bir halda",
+            "müqavilə tələbləri üzrə iddia müddətinə"
+        ],
+        "answer": "ümumi iddia müddətinə"
+    },
+    {
+        "question": "6 illik iddia müddəti hansı hallarda şamil olunur?",
+        "options": [
+            "ümumi iddia müddəri üzrə",
+            "daşınar əmlakla bağlı iddia müddətində",
+            "heç bir halda",
+            "daşınmaz əmlakla bağlı iddi müddətində",
+            "müqavilə tələbləri üzrə iddia müddətində"
+        ],
+        "answer": "daşınmaz əmlakla bağlı iddi müddətində"
+    },
+    {
+        "question": "Hüquqi şəxsin təsisçiləri hüquqi şəxsin dövlət qeydiyyatına alınmasına qədər əmələ gəlmiş,hüquqi şəxsin yaradılması ilə bağlı olan öhdəliklər üzrə məsuliyyət daşıyırlarmı?",
+        "options": [
+            "hüquqi şəxsi dövlət qeydiyyatından keçirməyə vəkil edilmiş təsisçi məsuliyyət daşıyır;",
+            "məsuliyyət daşımırlar;",
+            "hüquq varisliyi üzrə yaradılan hüquqi şəxs məsuliyyət daşıyır.",
+            "birgə məsuliyyət daşıyırlar;",
+            "subsidiar məsuliyyət daşıyırlar;"
+        ],
+        "answer": "birgə məsuliyyət daşıyırlar;"
+    },
+    {
+        "question": "Hüquqi şəxsin hüquq qabiliyyətinə nə vaxt xitam verilir?",
+        "options": [
+            "kreditorlara bildiriş göndərildiyi andan;",
+            "hüquqi şəxsin ləğvi başa çatdığı andan;",
+            "hüquqi şəxsin ləğvetmə komissiyası yaratmaq barədə qərar qəbul etdiyi andan.",
+            "hüquqi şəxsin təsisçiləri ləğvetmə komissiyasını yaratdıqları andan;",
+            "hüquqi şəxsin hüquqlarının məhdudlaşdırıldığı andan;"
+        ],
+        "answer": "hüquqi şəxsin ləğvi başa çatdığı andan;"
+    },
+    {
+        "question": "Hansı sənəd hüquqi şəxsin təsis sənədidir?",
+        "options": [
+            "hüquqi şəxsin dövlət qeydiyyatına alınmağı üçün ödənilən dövlət rüsumu haqqında sənəd;",
+            "hüquqi şəxsin təsisçilərinin yığıncağının protokolu;",
+            "hüquqi şəxsin təsisçilərinin təsdiq etdiyi nizamnamə.",
+            "hüquqi şəxsin təsisçiləri arasında bağlanmış müqavilə;",
+            "lisenziya alınması barədə dövlət orqanının verdiyi sənəd;"
+        ],
+        "answer": "hüquqi şəxsin təsisçilərinin təsdiq etdiyi nizamnamə."
+    },
+    {
+        "question": "Hansı bölmə hüquqi şəxsin filialı sayılır ?",
+        "options": [
+            "hüquqi şəxsin olduğu yerdən kənarda yerləşən,hüquqi şəxsin mənafelərini təmsil edən və hüquqi şəxsin funksiyalarının yalnız bir hissəsini həyata keçirən ayrıca bölmə;",
+            "hüquqi şəxsin olduğu yerdən kənarda yerləşən və nümayəndəlik funksiyaları istisna olmaqla,onun funksiyalarının hamısını və ya bir hissəsini həyata keçirən ayrıca bölmə.",
+            "hüquqi şəxsin olduğu yerdən kənarda yerləşən ,hüquqi mənafelərini təmsil edən və onun funksiyalarının yalnız bir hissəsini,o cümlədən nümayəndəlik fuksiyalarını həyata keçirən ayrıca bölmə;",
+            "hüquqi şəxsin olduğu yerdən kənarda yerləşən, hüquqi şəxsin mənafelərini müdafiə edən və hüquqi şəxsin funksiyalarının yalnız bir hissəsini həyata keçirən ayrıca bölmə;",
+            "hüquqi şəxsin olduğu yerdən kənarda yerləşən və onun funksiyalarının hamısını və ya bir hissəsini,o cümlədən nümayəndəlik funksiyalarını həyata keçirən ayrıca bölmə;"
+        ],
+        "answer": "hüquqi şəxsin olduğu yerdən kənarda yerləşən və onun funksiyalarının hamısını və ya bir hissəsini,o cümlədən nümayəndəlik funksiyalarını həyata keçirən ayrıca bölmə;"
+    },
+    {
+        "question": "Təxirəsalıcı şərtlə bağlanmış əqd deyəndə nə başa düşülür?",
+        "options": [
+            "əqddə nəzərdə tutulan hüquq və vəzifələrin əmələ gəlməsi gələcəkdə gözlənilən hadisədən və ya naməlum hadisədən və ya artıq baş versə də tərəflərə bəlli olmayan hadisədən asılı olarsa, əqd təxirəsalıcı şərtlə bağlanmış sayılır;",
+            "əqddə nəzərdə tutulan hüquq və vəzifələrin əmələ gəlməsi gələcəkdə gözlənilən hadisədən asılı olduqda əqd təxirəsalıcı şərtlə bağlanmış sayılır;",
+            "əqddə nəzərdə tutulan hüquq və vəzifələrin əmələ gəlməsi gələcəkdə gözlənilən hadisədən və ya naməlum hadisədən asılı olarsa və hadisə baş verməzsə, əqd təxirəsalıcı şərtlə bağlanmış sayılır;",
+            "əqddə nəzərdə tutulan hüquq və vəzifələrin əmələ gəlməsi gələcəkdə gözlənilməyən hadisədən və ya naməlum hadisədən və ya tərəflərə bəlli olmayan hadisədən asılı olarsa, əqd təxirəsalıcı şərtlə bağlanmış sayılır;",
+            "əqddə nəzərdə tutulan hüquq və vəzifələrin əmələ gəlməsi naməlum hadisədən və asılı olduqda, əqd təxirəsalıcı şərtlə bağlanmış sayılır. 198. Ləğvedici şərtlə bağlanmış əqd:",
+            "o əqddir ki, həmin şərtin baş verməməsi əqdin xitamına səbəb olur və əqd bağlananadək mövcud olmuş vəziyyəti bərpa edir; • o əqddir ki, həmin şərtin baş verməməsi əqdin xitamına səbəb olur və əqd bağlananadək mövcud olmuş vəziyyəti bərpa etmir. • o əqddir ki, həmin şərtin baş verməsi əqdin xitamına səbəb olmur və əqd bağlananadək mövcud olmuş vəziyyəti bərpa etmir; √ o əqddir ki, həmin şərtin baş verməsi əqdin xitamına səbəb olur və əqd bağlananadək mövcud olmuş vəziyyəti bərpa edir; • o əqddir ki, həmin şərtin baş verməsi əqdin xitamına səbəb olsa da, əqd bağlananadək mövcud olmuş vəziyyəti bərpa etmir;"
+        ],
+        "answer": "əqddə nəzərdə tutulan hüquq və vəzifələrin əmələ gəlməsi gələcəkdə gözlənilən hadisədən və ya naməlum hadisədən və ya artıq baş versə də tərəflərə bəlli olmayan hadisədən asılı olarsa, əqd təxirəsalıcı şərtlə bağlanmış sayılır;"
+    },
+    {
+        "question": "Mülki hüquq münasibətlərinin əmələ gəlmə əsasları?",
+        "options": [
+            "mülki hüquq normaları;",
+            "əmlak və şəxsi qeyri-əmlak münasibətləri",
+            "hüquqi faktlar;",
+            "mülki hüququn obyektləri;",
+            "mülki hüququn subyektləri;"
+        ],
+        "answer": "hüquqi faktlar;"
+    },
+    {
+        "question": "Aəağıdakılardan hansı əvəzsiz müqavilələrə aid edilir?",
+        "options": [
+            "alqı-satqı",
+            "ssuda",
+            "dəyişmə",
+            "bağışlanma",
+            "saxlanma"
+        ],
+        "answer": "bağışlanma"
+    },
+    {
+        "question": "Fiziki və hüquqi şəxslərin mülki hüquq münasibətlərini tənzim edən mülki hüquq normalarının üsul və vasitələrinin məcmusu mülki hüquqi tənzimetmənin ......... əks etdirir:",
+        "options": [
+            "obyektlərini",
+            "prinsiplərini",
+            "funksiyalarını",
+            "metodunu",
+            "subyektlərini"
+        ],
+        "answer": "metodunu"
+    },
+    {
+        "question": "Qanunvericiliyin nəzərdə tutduğu əqdlər:",
+        "options": [
+            "müvafiq icra hakimiyyəti oraqnında qeydə alınmış qdlər",
+            "ancaq sadə yazılı formada əqdlər",
+            "ancaq şifahi əqdlər",
+            "şifahi əqdlər, sadə yazılı formada əqdlər, natorial qaydada təsdiqlənmiş əqdlər",
+            "ancaq natorial qaydada təsdiq olunmuş əqdlər"
+        ],
+        "answer": "şifahi əqdlər, sadə yazılı formada əqdlər, natorial qaydada təsdiqlənmiş əqdlər"
+    },
+    {
+        "question": "Hüquq münasibətlərinin subyektləridir:",
+        "options": [
+            "məşğul şəxslər",
+            "işsiz vətəndaşlar",
+            "fiziki şəxslər",
+            "hüquqi şəxslər",
+            "fiziki və hüquqi şəxslər"
+        ],
+        "answer": "fiziki və hüquqi şəxslər"
+    },
+    {
+        "question": "Hüquq qabiliyyəti hüquq münasibəti iştirakçısının:",
+        "options": [
+            "öz fəaliyyəti ilə hüquqlar",
+            "öz fəaliyyəti ilə hüquqlar",
+            "özünün hüquq və vəzifələri həyata keçirməsidir",
+            "hüquqlara malik olmasıdır",
+            "hüquq və vəzifələrə"
+        ],
+        "answer": "hüquq və vəzifələrə"
+    },
+    {
+        "question": "Hüquqi hadisələr ........ baş verir:",
+        "options": [
+            "müxtəlif səbələrdən",
+            "tərəflərin razılığı əsasında",
+            "hüquqi faktın başvermə",
+            "insanların iradəsindən",
+            "insanların iradəsindən"
+        ],
+        "answer": "insanların iradəsindən"
+    },
+    {
+        "question": "Bağışlama müqaviləsi əqdin hansı növünə aiddir?",
+        "options": [
+            "mücərrəd",
+            "konstnsual;",
+            "əvəzsiz",
+            "əvəzli;",
+            "pozitiv;"
+        ],
+        "answer": "əvəzsiz"
+    },
+    {
+        "question": ". Aşağıda göstərilən hallardan hansında cinayətdə iştirakçılığın obyektiv əlamətləri daha əhatəli göstərilmişdir?",
+        "options": [
+            "cinayətin subyekti üçün müəyyən edilən əlamətlərə malik iki və daha artıq şəxsin cinayətdə iştirakı;",
+            "cinayətin subyekti üçün müəyyən edilən əlamətlərin olub-olmamsından asılı olmayaraq cinayətdə iki və daha artıq şəxsin iştirakı; √ cinayətin subyekti üçün qanunla müəyyən edilən əlamətlərə malik iki və daha artıq şəxsin, cinayətdə qəsdən birgə iştirakı. • cinayətdə iki və daha artıq şəxsin iştirakı;",
+            "cinayətin subyekti üçün qanunla müəyyən edilən əlamətlərə malik iki və daha artıq şəxsin cinayətdə birgə iştirakı; 350. Aşağıda sadalanlardan hansı insanın şəxsi hüquq və və azalıqlarına aid edilir?",
+            "istirahət hüququ",
+            "təhsil hüququ",
+            "mədəniyyət hüququ",
+            "tətil hüququ",
+            "xüsusi mülkiyyət hüququ"
+        ],
+        "answer": "xüsusi mülkiyyət hüququ"
+    }
+]
